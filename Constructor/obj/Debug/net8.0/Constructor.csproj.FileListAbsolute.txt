@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\Batch11\Constructor\bin\Debug\net8.0\Constructor.exe
+c:\Users\Batch 11\Desktop\Batch11\Constructor\bin\Debug\net8.0\Constructor.deps.json
+c:\Users\Batch 11\Desktop\Batch11\Constructor\bin\Debug\net8.0\Constructor.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Constructor\bin\Debug\net8.0\Constructor.dll
+C:\Users\Batch 11\Desktop\Batch11\Constructor\bin\Debug\net8.0\Constructor.pdb
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.dll
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\refint\Constructor.dll
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.pdb
+c:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\ref\Constructor.dll

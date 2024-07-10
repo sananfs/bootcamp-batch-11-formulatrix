@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\Batch11\firstProject\bin\Debug\net8.0\firstProject.exe
+C:\Users\Batch 11\Desktop\Batch11\firstProject\bin\Debug\net8.0\firstProject.deps.json
+C:\Users\Batch 11\Desktop\Batch11\firstProject\bin\Debug\net8.0\firstProject.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\firstProject\bin\Debug\net8.0\firstProject.dll
+C:\Users\Batch 11\Desktop\Batch11\firstProject\bin\Debug\net8.0\firstProject.pdb
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\firstProject.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\firstProject.dll
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\refint\firstProject.dll
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\firstProject.pdb
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\firstProject.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\firstProject\obj\Debug\net8.0\ref\firstProject.dll

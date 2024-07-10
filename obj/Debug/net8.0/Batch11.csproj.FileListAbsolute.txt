@@ -1,0 +1,4 @@
+C:\Users\Batch 11\Desktop\Batch11\obj\Debug\net8.0\Batch11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\obj\Debug\net8.0\Batch11.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\obj\Debug\net8.0\Batch11.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\obj\Debug\net8.0\Batch11.csproj.CoreCompileInputs.cache
