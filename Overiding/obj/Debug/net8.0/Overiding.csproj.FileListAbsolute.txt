@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\Overiding\bin\Debug\net8.0\Overiding.exe
+c:\Users\Batch 11\Desktop\Batch11\Overiding\bin\Debug\net8.0\Overiding.deps.json
+c:\Users\Batch 11\Desktop\Batch11\Overiding\bin\Debug\net8.0\Overiding.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Overiding\bin\Debug\net8.0\Overiding.dll
+C:\Users\Batch 11\Desktop\Batch11\Overiding\bin\Debug\net8.0\Overiding.pdb
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.dll
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\refint\Overiding.dll
+C:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.pdb
+c:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\Overiding.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\Overiding\obj\Debug\net8.0\ref\Overiding.dll

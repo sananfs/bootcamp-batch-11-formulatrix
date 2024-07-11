@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InternalTest/1.0.0": {
+        "dependencies": {
+          "Encapsulation": "1.0.0"
+        },
+        "runtime": {
+          "InternalTest.dll": {}
+        }
+      },
+      "Encapsulation/1.0.0": {
+        "runtime": {
+          "Encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InternalTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

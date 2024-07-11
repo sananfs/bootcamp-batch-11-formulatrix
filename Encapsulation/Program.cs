@@ -1,13 +1,11 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-class Family
+﻿public class Family
 {
 	private int _noKK;
 	public string clan;
-	
+
 	public int CheckNoKK(string password)
 	{
-		if(password == "123")
+		if (password == "123")
 		{
 			return _noKK;
 		}
@@ -15,10 +13,11 @@ class Family
 	}
 	public void AddNoKK(int add)
 	{
-		if(!(add < 0)) {
+		if (!(add < 0))	
+		{
 			_noKK = add;
+		}
 	}
-}
 	public void FillClan(string add)
 	{
 		clan += add;
