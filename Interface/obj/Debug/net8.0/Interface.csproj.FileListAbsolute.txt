@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\Interface\bin\Debug\net8.0\Interface.exe
+c:\Users\Batch 11\Desktop\Batch11\Interface\bin\Debug\net8.0\Interface.deps.json
+c:\Users\Batch 11\Desktop\Batch11\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Interface\bin\Debug\net8.0\Interface.dll
+C:\Users\Batch 11\Desktop\Batch11\Interface\bin\Debug\net8.0\Interface.pdb
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.dll
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\refint\Interface.dll
+C:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.pdb
+c:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\Interface\obj\Debug\net8.0\ref\Interface.dll

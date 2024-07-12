@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\bin\Debug\net8.0\ReferenceType.exe
+c:\Users\Batch 11\Desktop\Batch11\ReferenceType\bin\Debug\net8.0\ReferenceType.deps.json
+c:\Users\Batch 11\Desktop\Batch11\ReferenceType\bin\Debug\net8.0\ReferenceType.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\bin\Debug\net8.0\ReferenceType.dll
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\bin\Debug\net8.0\ReferenceType.pdb
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.dll
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\refint\ReferenceType.dll
+C:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.pdb
+c:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ReferenceType.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\ReferenceType\obj\Debug\net8.0\ref\ReferenceType.dll
