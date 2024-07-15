@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj": {}
+    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj": {
+    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj",
+        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\obj\\",
+        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

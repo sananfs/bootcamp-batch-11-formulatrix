@@ -5,7 +5,7 @@ class Program
 	static void Main()
 	{
 		//instance
-		Calculator calculator = new Calculator();
+		// Calculator calculator = new Calculator(); //error karena berubah menjadi static
 		Console.WriteLine("Kalkulator Sederhana");
 		do
 		{
@@ -29,23 +29,23 @@ class Program
 			if (menu == "1")
 			{
 				//Call calculator method
-				int result = calculator.Add(inputUserInt, inputUserInt2);
+				int result = Calculator.Add(inputUserInt, inputUserInt2);
 				Console.WriteLine("Hasil = " + result);
 			}
 			if (menu == "2")
 			{
 				//Call calculator method
-				int result = calculator.Min(inputUserInt, inputUserInt2);
+				int result = Calculator.Min(inputUserInt, inputUserInt2);
 				Console.WriteLine("Hasil = " + result);
 			}
 			if (menu == "3")
 			{
-				int result = calculator.Multiply(inputUserInt, inputUserInt2);
+				int result = Calculator.Multiply(inputUserInt, inputUserInt2);
 				Console.WriteLine("Hasil = " + result);
 			}
 			if (menu == "4")
 			{
-				int result = calculator.Divided(inputUserInt, inputUserInt2);
+				int result = Calculator.Divided(inputUserInt, inputUserInt2);
 				Console.WriteLine("Hasil = " + result);
 			}
 
