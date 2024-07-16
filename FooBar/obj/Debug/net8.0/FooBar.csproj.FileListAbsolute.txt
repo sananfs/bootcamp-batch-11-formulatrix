@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.exe
+c:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.deps.json
+c:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.dll
+C:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.pdb
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.dll
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\refint\FooBar.dll
+C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.pdb
+c:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\ref\FooBar.dll

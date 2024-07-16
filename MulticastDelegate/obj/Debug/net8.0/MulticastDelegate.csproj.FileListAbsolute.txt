@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.exe
+c:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.deps.json
+c:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.pdb
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\refint\MulticastDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.pdb
+c:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\MulticastDelegate\obj\Debug\net8.0\ref\MulticastDelegate.dll

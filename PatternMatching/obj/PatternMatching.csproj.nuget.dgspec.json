@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj",
         "projectName": "PatternMatching",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\PatternMatching.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\PatternMatching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

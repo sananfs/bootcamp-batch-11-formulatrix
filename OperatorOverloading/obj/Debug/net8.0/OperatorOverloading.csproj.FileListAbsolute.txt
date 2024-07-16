@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.exe
+c:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.deps.json
+c:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.dll
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.pdb
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.dll
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\refint\OperatorOverloading.dll
+C:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.pdb
+c:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\OperatorOverloading\obj\Debug\net8.0\ref\OperatorOverloading.dll

@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\bin\Debug\net8.0\GenericCalculator.exe
+c:\Users\Batch 11\Desktop\Batch11\GenericCalculator\bin\Debug\net8.0\GenericCalculator.deps.json
+c:\Users\Batch 11\Desktop\Batch11\GenericCalculator\bin\Debug\net8.0\GenericCalculator.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\bin\Debug\net8.0\GenericCalculator.dll
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\bin\Debug\net8.0\GenericCalculator.pdb
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.dll
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\refint\GenericCalculator.dll
+C:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.pdb
+c:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\GenericCalculator.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\GenericCalculator\obj\Debug\net8.0\ref\GenericCalculator.dll

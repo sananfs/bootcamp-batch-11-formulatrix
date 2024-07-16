@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\bin\Debug\net8.0\GenericConstraint3.exe
+c:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\bin\Debug\net8.0\GenericConstraint3.deps.json
+c:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\bin\Debug\net8.0\GenericConstraint3.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\bin\Debug\net8.0\GenericConstraint3.dll
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\bin\Debug\net8.0\GenericConstraint3.pdb
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.dll
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\refint\GenericConstraint3.dll
+C:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.pdb
+c:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\GenericConstraint3.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\GenericConstraint3\obj\Debug\net8.0\ref\GenericConstraint3.dll

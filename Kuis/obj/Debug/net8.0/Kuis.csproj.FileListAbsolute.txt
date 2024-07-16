@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\Kuis\bin\Debug\net8.0\Kuis.exe
+c:\Users\Batch 11\Desktop\Batch11\Kuis\bin\Debug\net8.0\Kuis.deps.json
+c:\Users\Batch 11\Desktop\Batch11\Kuis\bin\Debug\net8.0\Kuis.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Kuis\bin\Debug\net8.0\Kuis.dll
+C:\Users\Batch 11\Desktop\Batch11\Kuis\bin\Debug\net8.0\Kuis.pdb
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.dll
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\refint\Kuis.dll
+C:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.pdb
+c:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\Kuis.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\Kuis\obj\Debug\net8.0\ref\Kuis.dll

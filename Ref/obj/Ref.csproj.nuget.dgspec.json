@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj",
         "projectName": "Ref",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\Ref.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Ref\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

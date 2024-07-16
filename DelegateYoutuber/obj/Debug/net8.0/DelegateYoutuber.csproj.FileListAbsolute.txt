@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\bin\Debug\net8.0\DelegateYoutuber.exe
+c:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\bin\Debug\net8.0\DelegateYoutuber.deps.json
+c:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\bin\Debug\net8.0\DelegateYoutuber.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\bin\Debug\net8.0\DelegateYoutuber.dll
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\bin\Debug\net8.0\DelegateYoutuber.pdb
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.dll
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\refint\DelegateYoutuber.dll
+C:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.pdb
+c:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\DelegateYoutuber.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\DelegateYoutuber\obj\Debug\net8.0\ref\DelegateYoutuber.dll
