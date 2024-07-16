@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.exe
 c:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.deps.json
 c:\Users\Batch 11\Desktop\Batch11\FooBar\bin\Debug\net8.0\FooBar.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\refint\FooBar.dll
 C:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.pdb
 c:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\FooBar.genruntimeconfig.cache
 c:\Users\Batch 11\Desktop\Batch11\FooBar\obj\Debug\net8.0\ref\FooBar.dll
+=======
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.GeneratedMSBuildEditorConfig.editorconfig
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.AssemblyInfoInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.AssemblyInfo.cs
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.csproj.CoreCompileInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\bin\Debug\net8.0\FooBar.exe
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\bin\Debug\net8.0\FooBar.deps.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\bin\Debug\net8.0\FooBar.runtimeconfig.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\bin\Debug\net8.0\FooBar.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\bin\Debug\net8.0\FooBar.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\refint\FooBar.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.genruntimeconfig.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\ref\FooBar.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix-main\bootcamp-batch-11-formulatrix-main\FooBar\obj\Debug\net8.0\FooBar.sourcelink.json
+>>>>>>> 1e47bfd56709bc1ca886ff290086b12714cdf0ec
