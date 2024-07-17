@@ -19,11 +19,10 @@ class Program
 				a = n.ToString();
 			}
 
-			Console.WriteLine(a);
-		}
-	}
-}
-class Program
+            Console.WriteLine(a);
+        }
+    }
+﻿class Program
 {
 	static void Main()
 	{
@@ -44,7 +43,7 @@ class Program
 				a = n.ToString();
 			}
 
-			Console.WriteLine(a);
-		}
-	}
+            Console.WriteLine(a);
+        }
+    }
 }
