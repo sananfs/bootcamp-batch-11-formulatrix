@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿class Program
 {
     static void Main()
@@ -23,7 +22,6 @@
             Console.WriteLine(a);
         }
     }
-=======
 ﻿class Program
 {
     static void Main()
@@ -48,5 +46,4 @@
             Console.WriteLine(a);
         }
     }
->>>>>>> 1e47bfd56709bc1ca886ff290086b12714cdf0ec
 }
