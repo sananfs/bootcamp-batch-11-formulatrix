@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\Collection\bin\Debug\net8.0\Collection.exe
+c:\Users\Batch 11\Desktop\Batch11\Collection\bin\Debug\net8.0\Collection.deps.json
+c:\Users\Batch 11\Desktop\Batch11\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Collection\bin\Debug\net8.0\Collection.dll
+C:\Users\Batch 11\Desktop\Batch11\Collection\bin\Debug\net8.0\Collection.pdb
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.dll
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\refint\Collection.dll
+C:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.pdb
+c:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\Collection\obj\Debug\net8.0\ref\Collection.dll

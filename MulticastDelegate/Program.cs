@@ -1,4 +1,6 @@
 ﻿// Multicast Delegate
+using System.Security.Cryptography.X509Certificates;
+
 public delegate void MyDelegate();
 
 class Program

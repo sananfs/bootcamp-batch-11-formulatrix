@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj",
         "projectName": "MulticastDelegate",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\MulticastDelegate.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\MulticastDelegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

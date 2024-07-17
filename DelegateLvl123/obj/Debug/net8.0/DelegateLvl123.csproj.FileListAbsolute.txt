@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\bin\Debug\net8.0\DelegateLvl123.exe
+c:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\bin\Debug\net8.0\DelegateLvl123.deps.json
+c:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\bin\Debug\net8.0\DelegateLvl123.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\bin\Debug\net8.0\DelegateLvl123.dll
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\bin\Debug\net8.0\DelegateLvl123.pdb
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.dll
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\refint\DelegateLvl123.dll
+C:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.pdb
+c:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\DelegateLvl123.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\DelegateLvl123\obj\Debug\net8.0\ref\DelegateLvl123.dll
