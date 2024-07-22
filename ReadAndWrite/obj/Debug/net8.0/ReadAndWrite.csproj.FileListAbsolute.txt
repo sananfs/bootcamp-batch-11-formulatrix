@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\bin\Debug\net8.0\ReadAndWrite.exe
+c:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\bin\Debug\net8.0\ReadAndWrite.deps.json
+c:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\bin\Debug\net8.0\ReadAndWrite.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\bin\Debug\net8.0\ReadAndWrite.dll
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\bin\Debug\net8.0\ReadAndWrite.pdb
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.dll
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\refint\ReadAndWrite.dll
+C:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.pdb
+c:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ReadAndWrite.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\ReadAndWrite\obj\Debug\net8.0\ref\ReadAndWrite.dll

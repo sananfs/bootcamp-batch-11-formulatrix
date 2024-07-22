@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj",
         "projectName": "Dictionary",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\Dictionary.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
