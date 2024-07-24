@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\Validation\bin\Debug\net8.0\Validation.exe
+c:\Users\Batch 11\Desktop\Batch11\Validation\bin\Debug\net8.0\Validation.deps.json
+c:\Users\Batch 11\Desktop\Batch11\Validation\bin\Debug\net8.0\Validation.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Validation\bin\Debug\net8.0\Validation.dll
+C:\Users\Batch 11\Desktop\Batch11\Validation\bin\Debug\net8.0\Validation.pdb
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.dll
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\refint\Validation.dll
+C:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.pdb
+c:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\Validation.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\Validation\obj\Debug\net8.0\ref\Validation.dll
