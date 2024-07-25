@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\bin\Debug\net8.0\StackOverflow.exe
+c:\Users\Batch 11\Desktop\Batch11\StackOverflow\bin\Debug\net8.0\StackOverflow.deps.json
+c:\Users\Batch 11\Desktop\Batch11\StackOverflow\bin\Debug\net8.0\StackOverflow.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\bin\Debug\net8.0\StackOverflow.dll
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\bin\Debug\net8.0\StackOverflow.pdb
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.dll
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\refint\StackOverflow.dll
+C:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.pdb
+c:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\StackOverflow.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\StackOverflow\obj\Debug\net8.0\ref\StackOverflow.dll

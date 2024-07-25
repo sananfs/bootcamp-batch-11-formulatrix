@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AddLohOrGenerationCheck/1.0.0": {
+        "runtime": {
+          "AddLohOrGenerationCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddLohOrGenerationCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

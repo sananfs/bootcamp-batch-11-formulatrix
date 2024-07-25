@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\Using\bin\Debug\net8.0\Using.exe
+c:\Users\Batch 11\Desktop\Batch11\Using\bin\Debug\net8.0\Using.deps.json
+c:\Users\Batch 11\Desktop\Batch11\Using\bin\Debug\net8.0\Using.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Using\bin\Debug\net8.0\Using.dll
+C:\Users\Batch 11\Desktop\Batch11\Using\bin\Debug\net8.0\Using.pdb
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.dll
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\refint\Using.dll
+C:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.pdb
+c:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\Using.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\Using\obj\Debug\net8.0\ref\Using.dll

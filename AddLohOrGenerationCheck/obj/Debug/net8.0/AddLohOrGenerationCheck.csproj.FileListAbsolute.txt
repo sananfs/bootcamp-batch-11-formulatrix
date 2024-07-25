@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\bin\Debug\net8.0\AddLohOrGenerationCheck.exe
+c:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\bin\Debug\net8.0\AddLohOrGenerationCheck.deps.json
+c:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\bin\Debug\net8.0\AddLohOrGenerationCheck.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\bin\Debug\net8.0\AddLohOrGenerationCheck.dll
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\bin\Debug\net8.0\AddLohOrGenerationCheck.pdb
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.dll
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\refint\AddLohOrGenerationCheck.dll
+C:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.pdb
+c:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\AddLohOrGenerationCheck.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\AddLohOrGenerationCheck\obj\Debug\net8.0\ref\AddLohOrGenerationCheck.dll

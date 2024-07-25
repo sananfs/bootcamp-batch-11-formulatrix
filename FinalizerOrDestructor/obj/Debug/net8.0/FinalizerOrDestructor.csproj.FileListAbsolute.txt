@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\bin\Debug\net8.0\FinalizerOrDestructor.exe
+c:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\bin\Debug\net8.0\FinalizerOrDestructor.deps.json
+c:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\bin\Debug\net8.0\FinalizerOrDestructor.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\bin\Debug\net8.0\FinalizerOrDestructor.dll
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\bin\Debug\net8.0\FinalizerOrDestructor.pdb
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.dll
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\refint\FinalizerOrDestructor.dll
+C:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.pdb
+c:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\FinalizerOrDestructor.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\FinalizerOrDestructor\obj\Debug\net8.0\ref\FinalizerOrDestructor.dll

@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\bin\Debug\net8.0\UltimateBaseClass.exe
+c:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\bin\Debug\net8.0\UltimateBaseClass.deps.json
+c:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\bin\Debug\net8.0\UltimateBaseClass.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\bin\Debug\net8.0\UltimateBaseClass.dll
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\bin\Debug\net8.0\UltimateBaseClass.pdb
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.dll
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\refint\UltimateBaseClass.dll
+C:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.pdb
+c:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\UltimateBaseClass.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\UltimateBaseClass\obj\Debug\net8.0\ref\UltimateBaseClass.dll
