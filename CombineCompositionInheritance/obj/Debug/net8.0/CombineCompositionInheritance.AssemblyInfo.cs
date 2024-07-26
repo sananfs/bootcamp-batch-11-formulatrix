@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombineCompositionInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bf8196d46c0f08ba2d7767ae0b09b7c89345de1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c13bbaa89019b3170f892f0dab4a4b3519f5cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombineCompositionInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombineCompositionInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
