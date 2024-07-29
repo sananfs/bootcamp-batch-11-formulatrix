@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\bin\Debug\net8.0\WithoutMultiThreading.exe
+c:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\bin\Debug\net8.0\WithoutMultiThreading.deps.json
+c:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\bin\Debug\net8.0\WithoutMultiThreading.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\bin\Debug\net8.0\WithoutMultiThreading.dll
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\bin\Debug\net8.0\WithoutMultiThreading.pdb
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.dll
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\refint\WithoutMultiThreading.dll
+C:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.pdb
+c:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\WithoutMultiThreading.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\WithoutMultiThreading\obj\Debug\net8.0\ref\WithoutMultiThreading.dll

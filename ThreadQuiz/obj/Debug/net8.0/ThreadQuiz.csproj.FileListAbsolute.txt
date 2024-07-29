@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\bin\Debug\net8.0\ThreadQuiz.exe
+c:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\bin\Debug\net8.0\ThreadQuiz.deps.json
+c:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\bin\Debug\net8.0\ThreadQuiz.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\bin\Debug\net8.0\ThreadQuiz.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\bin\Debug\net8.0\ThreadQuiz.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\refint\ThreadQuiz.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.pdb
+c:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ThreadQuiz.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\ThreadQuiz\obj\Debug\net8.0\ref\ThreadQuiz.dll

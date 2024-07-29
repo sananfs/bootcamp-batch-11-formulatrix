@@ -1,0 +1,5 @@
+C:\Users\Batch 11\Desktop\Batch11\ParameterProblem\obj\Debug\net8.0\ParameterProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ParameterProblem\obj\Debug\net8.0\ParameterProblem.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ParameterProblem\obj\Debug\net8.0\ParameterProblem.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ParameterProblem\obj\Debug\net8.0\ParameterProblem.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ParameterProblem\obj\Debug\net8.0\ParameterProblem.sourcelink.json

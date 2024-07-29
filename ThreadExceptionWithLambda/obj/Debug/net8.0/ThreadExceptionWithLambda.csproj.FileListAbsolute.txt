@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\bin\Debug\net8.0\ThreadExceptionWithLambda.exe
+c:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\bin\Debug\net8.0\ThreadExceptionWithLambda.deps.json
+c:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\bin\Debug\net8.0\ThreadExceptionWithLambda.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\bin\Debug\net8.0\ThreadExceptionWithLambda.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\bin\Debug\net8.0\ThreadExceptionWithLambda.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\refint\ThreadExceptionWithLambda.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.pdb
+c:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ThreadExceptionWithLambda.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\ThreadExceptionWithLambda\obj\Debug\net8.0\ref\ThreadExceptionWithLambda.dll
