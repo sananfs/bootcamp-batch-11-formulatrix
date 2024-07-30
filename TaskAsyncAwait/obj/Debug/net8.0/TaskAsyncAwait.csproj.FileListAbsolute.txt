@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\bin\Debug\net8.0\TaskAsyncAwait.exe
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\bin\Debug\net8.0\TaskAsyncAwait.deps.json
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\bin\Debug\net8.0\TaskAsyncAwait.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\bin\Debug\net8.0\TaskAsyncAwait.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\bin\Debug\net8.0\TaskAsyncAwait.pdb
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\refint\TaskAsyncAwait.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.pdb
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\TaskAsyncAwait.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait\obj\Debug\net8.0\ref\TaskAsyncAwait.dll

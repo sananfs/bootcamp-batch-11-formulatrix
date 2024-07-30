@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\bin\Debug\net8.0\TaskAsyncAwait2.exe
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\bin\Debug\net8.0\TaskAsyncAwait2.deps.json
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\bin\Debug\net8.0\TaskAsyncAwait2.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\bin\Debug\net8.0\TaskAsyncAwait2.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\bin\Debug\net8.0\TaskAsyncAwait2.pdb
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\refint\TaskAsyncAwait2.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.pdb
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\TaskAsyncAwait2.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\TaskAsyncAwait2\obj\Debug\net8.0\ref\TaskAsyncAwait2.dll

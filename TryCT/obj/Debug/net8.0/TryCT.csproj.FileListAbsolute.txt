@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\TryCT\bin\Debug\net8.0\TryCT.exe
+c:\Users\Batch 11\Desktop\Batch11\TryCT\bin\Debug\net8.0\TryCT.deps.json
+c:\Users\Batch 11\Desktop\Batch11\TryCT\bin\Debug\net8.0\TryCT.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\TryCT\bin\Debug\net8.0\TryCT.dll
+C:\Users\Batch 11\Desktop\Batch11\TryCT\bin\Debug\net8.0\TryCT.pdb
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.dll
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\refint\TryCT.dll
+C:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.pdb
+c:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\TryCT.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\TryCT\obj\Debug\net8.0\ref\TryCT.dll
