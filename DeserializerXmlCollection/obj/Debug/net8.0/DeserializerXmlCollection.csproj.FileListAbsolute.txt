@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\bin\Debug\net8.0\DeserializerXmlCollection.exe
+c:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\bin\Debug\net8.0\DeserializerXmlCollection.deps.json
+c:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\bin\Debug\net8.0\DeserializerXmlCollection.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\bin\Debug\net8.0\DeserializerXmlCollection.dll
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\bin\Debug\net8.0\DeserializerXmlCollection.pdb
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.dll
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\refint\DeserializerXmlCollection.dll
+C:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.pdb
+c:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\DeserializerXmlCollection.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\DeserializerXmlCollection\obj\Debug\net8.0\ref\DeserializerXmlCollection.dll

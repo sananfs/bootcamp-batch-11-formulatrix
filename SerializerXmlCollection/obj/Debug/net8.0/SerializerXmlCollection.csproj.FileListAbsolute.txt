@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\bin\Debug\net8.0\SerializerXmlCollection.exe
+c:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\bin\Debug\net8.0\SerializerXmlCollection.deps.json
+c:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\bin\Debug\net8.0\SerializerXmlCollection.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\bin\Debug\net8.0\SerializerXmlCollection.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\bin\Debug\net8.0\SerializerXmlCollection.pdb
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\refint\SerializerXmlCollection.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.pdb
+c:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\SerializerXmlCollection.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\SerializerXmlCollection\obj\Debug\net8.0\ref\SerializerXmlCollection.dll

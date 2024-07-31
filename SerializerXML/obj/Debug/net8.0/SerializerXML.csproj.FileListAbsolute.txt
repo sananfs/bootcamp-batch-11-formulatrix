@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\bin\Debug\net8.0\SerializerXML.exe
+c:\Users\Batch 11\Desktop\Batch11\SerializerXML\bin\Debug\net8.0\SerializerXML.deps.json
+c:\Users\Batch 11\Desktop\Batch11\SerializerXML\bin\Debug\net8.0\SerializerXML.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\bin\Debug\net8.0\SerializerXML.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\bin\Debug\net8.0\SerializerXML.pdb
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\refint\SerializerXML.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.pdb
+c:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\SerializerXML.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\SerializerXML\obj\Debug\net8.0\ref\SerializerXML.dll

@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\bin\Debug\net8.0\DataContractSerializer.exe
+c:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\bin\Debug\net8.0\DataContractSerializer.deps.json
+c:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\bin\Debug\net8.0\DataContractSerializer.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\bin\Debug\net8.0\DataContractSerializer.dll
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\bin\Debug\net8.0\DataContractSerializer.pdb
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.dll
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\refint\DataContractSerializer.dll
+C:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.pdb
+c:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\DataContractSerializer.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\DataContractSerializer\obj\Debug\net8.0\ref\DataContractSerializer.dll

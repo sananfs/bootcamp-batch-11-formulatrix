@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\bin\Debug\net8.0\SerializeJSON.exe
+c:\Users\Batch 11\Desktop\Batch11\SerializeJSON\bin\Debug\net8.0\SerializeJSON.deps.json
+c:\Users\Batch 11\Desktop\Batch11\SerializeJSON\bin\Debug\net8.0\SerializeJSON.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\bin\Debug\net8.0\SerializeJSON.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\bin\Debug\net8.0\SerializeJSON.pdb
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\refint\SerializeJSON.dll
+C:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.pdb
+c:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\SerializeJSON.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch11\SerializeJSON\obj\Debug\net8.0\ref\SerializeJSON.dll
