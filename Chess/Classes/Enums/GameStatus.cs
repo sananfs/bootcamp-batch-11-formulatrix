@@ -1,4 +1,4 @@
-namespace Chess.Enums;
+namespace Chess;
 
 public enum GameStatus
 {

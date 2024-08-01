@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj",
         "projectName": "SerializerXmlCollection",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\SerializerXmlCollection.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\SerializerXmlCollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

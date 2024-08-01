@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj",
         "projectName": "DeserializeXML",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
