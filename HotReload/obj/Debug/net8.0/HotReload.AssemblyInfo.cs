@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotReload")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4d8b16524c8db224464d7e2eb734b0774ea4c53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd625a4c21fab1cf6423f52504e5fd3e9601c0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotReload")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotReload")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
