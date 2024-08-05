@@ -13,3 +13,18 @@ C:\Users\Batch 11\Desktop\Batch11\Chess\obj\Debug\net8.0\refint\Chess.dll
 C:\Users\Batch 11\Desktop\Batch11\Chess\obj\Debug\net8.0\Chess.pdb
 c:\Users\Batch 11\Desktop\Batch11\Chess\obj\Debug\net8.0\Chess.genruntimeconfig.cache
 c:\Users\Batch 11\Desktop\Batch11\Chess\obj\Debug\net8.0\ref\Chess.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.AssemblyInfoInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.AssemblyInfo.cs
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.csproj.CoreCompileInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.sourcelink.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\refint\Chess.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\bin\Debug\net8.0\Chess.exe
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\bin\Debug\net8.0\Chess.deps.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\bin\Debug\net8.0\Chess.runtimeconfig.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\bin\Debug\net8.0\Chess.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\bin\Debug\net8.0\Chess.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\Chess.genruntimeconfig.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\Chess\obj\Debug\net8.0\ref\Chess.dll

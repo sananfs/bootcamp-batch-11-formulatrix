@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Delegate\\Delegate.csproj": {}
+    "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Delegate\\Delegate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Delegate\\Delegate.csproj": {
+    "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Delegate\\Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Delegate\\Delegate.csproj",
         "projectName": "Delegate",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Delegate\\Delegate.csproj",
-        "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Delegate\\obj\\",
+        "projectPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Delegate\\Delegate.csproj",
+        "packagesPath": "C:\\Users\\sanan\\.nuget\\packages\\",
+        "outputPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sanan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

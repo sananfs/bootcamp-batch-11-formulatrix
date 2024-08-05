@@ -3,5 +3,6 @@ namespace Chess;
 public enum GameStatus
 {
 	OnGoing,
-	Check
+	Check,
+	CheckMate
 }

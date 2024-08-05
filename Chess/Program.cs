@@ -14,21 +14,23 @@ class Program
         Console.WriteLine("Masukkan nama untuk pemain hitam:");
         string blackPlayerName = Console.ReadLine();
 
-        var players = new Dictionary<Color, IPlayer>
+        var playerNames = new Dictionary<Color, string>
         {
-            { Color.White, new SimplePlayer(1, whitePlayerName) },
-            { Color.Black, new SimplePlayer(2, blackPlayerName) }
+            { Color.White, whitePlayerName },
+            { Color.Black, blackPlayerName }
         };
 
-        GameController gameController = new GameController(players, chessBoard);
+        GameController gameController = new GameController(playerNames, chessBoard);
 
         while (!gameController.EndGame())
         {
-            var currentPlayer = gameController.GetCurrentPlayer();
+            // Gunakan CurrentTurn untuk menentukan pemain saat ini
+            var currentPlayerColor = gameController.CurrentTurn;
+            var currentPlayerName = playerNames[currentPlayerColor];
 
             DisplayChessBoard(chessBoard);
 
-            Console.WriteLine($"Giliran {currentPlayer.Name} ({gameController.GetCurrentPlayerColor()}). Pilih bidak (misal, e2): ");
+            Console.WriteLine($"Giliran {currentPlayerName} ({currentPlayerColor}). Pilih bidak (misal, e2): ");
             string piecePosition = Console.ReadLine();
             Console.WriteLine("Pilih tujuan (misal, e4): ");
             string destinationPosition = Console.ReadLine();
@@ -38,7 +40,7 @@ class Program
 
             Piece selectedPiece = chessBoard.GetPiece(pieceLocation);
 
-            string moveResult = gameController.MovePiece(currentPlayer, selectedPiece, destinationLocation);
+            string moveResult = gameController.MovePiece(currentPlayerColor, selectedPiece, destinationLocation);
             Console.WriteLine(moveResult);
         }
 
@@ -122,17 +124,5 @@ class Program
         int x = position[0] - 'a';
         int y = int.Parse(position[1].ToString()) - 1;
         return new Location(x, y);
-    }
-}
-
-public class SimplePlayer : IPlayer
-{
-    public int Id { get; set; }
-    public string Name { get; set; }
-
-    public SimplePlayer(int id, string name)
-    {
-        Id = id;
-        Name = name;
     }
 }

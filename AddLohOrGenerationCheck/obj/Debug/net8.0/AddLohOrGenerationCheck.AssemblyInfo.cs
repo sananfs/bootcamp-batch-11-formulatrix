@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddLohOrGenerationCheck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd625a4c21fab1cf6423f52504e5fd3e9601c0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab31b43e4a82ab9832ddd36b340001a7945d2dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddLohOrGenerationCheck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddLohOrGenerationCheck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
