@@ -2,7 +2,7 @@ namespace Chess;
 public class GameController
 {
     private Dictionary<Color, string> _players;
-    private Color _currentTurn;
+    public Color CurrentTurn { get; private set; }
     private GameStatus _status;
     private ChessBoard _chessBoard;
     private Dictionary<Color, List<Piece>> _listPieceRemove;
@@ -16,72 +16,75 @@ public class GameController
     {
         _players = players;
         _chessBoard = chessBoard;
-        _currentTurn = Color.White;
+        CurrentTurn = Color.White;
         _status = GameStatus.OnGoing;
-        _listPieceRemove = new Dictionary<Color, List<Piece>>();
-        _hasMoved = new Dictionary<Color, List<Piece>>();
+        _listPieceRemove = new Dictionary<Color, List<Piece>>
+            {
+                { Color.White, new List<Piece>() },
+                { Color.Black, new List<Piece>() }
+            };
+
+        _hasMoved = new Dictionary<Color, List<Piece>>
+            {
+                { Color.White, new List<Piece>() },
+                { Color.Black, new List<Piece>() }
+            };
     }
 
-    public List<Location> PossibleMove(Color playerColor, Piece piece)
+    public (bool success, List<Location> possibleMoves, string message) PossibleMove(Color playerColor, Piece selectedPiece)
     {
-        if (piece == null)
+        if (selectedPiece == null)
         {
-            return new List<Location>();
+            return (false, null, "Tidak ada bidak.");
         }
 
-        var currentLocation = _chessBoard.GetLocation(piece);
-        if (currentLocation == null)
+        if (selectedPiece.Color != playerColor)
         {
-            return new List<Location>();
+            return (false, null, "Anda hanya bisa menggerakan bidak milik sendiri.");
         }
 
-        return piece.GetLegalMoves(_chessBoard, currentLocation);
+        var currentLocation = _chessBoard.GetLocation(selectedPiece);
+        var possibleMoves = selectedPiece.GetLegalMoves(_chessBoard, currentLocation);
+
+        if (possibleMoves.Count == 0)
+        {
+            return (false, null, "bidak tidak mungkin bergerak.");
+        }
+
+        return (true, possibleMoves, string.Empty);
     }
 
-    public string MovePiece(Color playerColor, Piece piece, Location destination)
+
+    public string MovePiece(Color playerColor, Piece selectedPiece, Location destination)
     {
-        if (!_MovePieceValidator(playerColor, piece))
+        if (selectedPiece.Color != playerColor)
         {
-            return "Pergerakan salah: bukan giliran anda.";
+            return "Error: Bukan giliran Anda.";
         }
 
-        var currentLocation = _chessBoard.GetLocation(piece);
-        if (currentLocation == null)
+        var currentLocation = _chessBoard.GetLocation(selectedPiece);
+        var legalMoves = selectedPiece.GetLegalMoves(_chessBoard, currentLocation) ?? new List<Location>();
+
+        if (!legalMoves.Contains(destination))
         {
-            return "Pergerakan salah: bidak tidak ditemukan.";
+            return "Error: Gerakan tidak dapat dicapai.";
         }
 
-        var possibleMoves = PossibleMove(playerColor, piece);
-        if (possibleMoves.Contains(destination))
+        _chessBoard.SetPlacePiece(selectedPiece, destination);
+
+        if (_PieceHasCheck(CurrentTurn))
         {
-            var targetPiece = _chessBoard.GetPiece(destination);
-            bool pieceCaptured = _RemovePieceHasEaten(playerColor, piece, targetPiece, destination);
-            _chessBoard.SetPlacePiece(piece, destination);
-
-            if (pieceCaptured)
-            {
-                OnPieceEaten?.Invoke(piece, destination);
-                return _NotifyPiece(playerColor, piece, NotifyPiece.PieceRemoved, targetPiece);
-            }
-            else
-            {
-                OnPieceMove?.Invoke(piece, destination); 
-                return _NotifyPiece(playerColor, piece, NotifyPiece.PieceMoved);
-            }
-
-            _PawnHasBeenUpgrade(playerColor, piece, destination);
-
-            if (!_hasMoved.ContainsKey(playerColor))
-            {
-                _hasMoved[playerColor] = new List<Piece>();
-            }
-            _hasMoved[playerColor].Add(piece);
-
-            EndTurn();
-            return "Gerakan komplit.";
+            _status = GameStatus.Check;
         }
-        return "Pergerakan salah: tujuan tidak dapat dicapai.";
+        else
+        {
+            _status = GameStatus.OnGoing;
+        }
+
+        CurrentTurn = CurrentTurn == Color.White ? Color.Black : Color.White;
+        return "Pergerakan sukses.";
     }
+
 
     private bool _PieceHasPlayer(Color playerColor, Piece piece)
     {
@@ -112,134 +115,99 @@ public class GameController
         {
             return false;
         }
-        int promotionRow = (piece.Color == Color.White) ? 7 : 0;
-        return destination.Y == promotionRow;
-    }
-
-    private void _PawnHasBeenUpgrade(Color playerColor, Piece piece, Location destination)
-    {
-        if (_IsUpgradePawn(playerColor, piece, destination))
+        if (piece.Color == Color.White && destination.X == 7)
         {
-            var queen = new Queen(piece.Id, piece.Color);
-            _chessBoard.SetPlacePiece(queen, destination);
-            OnPieceUpgraded?.Invoke(piece, destination); 
+            return true;
         }
-    }
-
-    private bool _MovePieceValidator(Color playerColor, Piece piece)
-    {
-        if (_status != GameStatus.OnGoing)
+        if (piece.Color == Color.Black && destination.X == 0)
         {
-            return false;
-        }
-
-        if (!_PieceHasPlayer(playerColor, piece))
-        {
-            return false;
-        }
-
-        if (_currentTurn != playerColor)
-        {
-            return false;
-        }
-        return true;
-    }
-
-    private bool _RemovePieceHasEaten(Color playerColor, Piece piece, Piece targetPiece, Location destination)
-    {
-        if (targetPiece == null)
-        {
-            return false;
-        }
-
-        if (targetPiece.Color != piece.Color)
-        {
-            if (!_listPieceRemove.ContainsKey(targetPiece.Color))
-            {
-                _listPieceRemove[targetPiece.Color] = new List<Piece>();
-            }
-            _listPieceRemove[targetPiece.Color].Add(targetPiece);
-            _chessBoard.SetPlacePiece(null, destination);
             return true;
         }
         return false;
     }
 
-    public GameStatus GetGameStatus()
+    private bool _PieceHasCheck(Color kingColor)
     {
-        return _status;
+        Location kingLocation = null;
+
+        for (int x = 0; x < 8; x++)
+        {
+            for (int y = 0; y < 8; y++)
+            {
+                Piece piece = _chessBoard.GetPiece(new Location(x, y));
+                if (piece != null && piece.Color == kingColor && piece.PieceType == PieceType.King)
+                {
+                    kingLocation = new Location(x, y);
+                    break;
+                }
+            }
+        }
+
+        if (kingLocation == null) return false;
+
+        Color opponentColor = kingColor == Color.White ? Color.Black : Color.White;
+        for (int x = 0; x < 8; x++)
+        {
+            for (int y = 0; y < 8; y++)
+            {
+                Piece piece = _chessBoard.GetPiece(new Location(x, y));
+                if (piece != null && piece.Color == opponentColor)
+                {
+                    var moves = piece.GetLegalMoves(_chessBoard, new Location(x, y));
+                    if (moves.Contains(kingLocation))
+                    {
+                        return true;
+                    }
+                }
+            }
+        }
+
+        return false;
     }
 
     public bool EndGame()
     {
-        if (_CheckMateGameOver())
+        if (_status == GameStatus.Check)
         {
-            _status = GameStatus.CheckMate;
-            return true;
-        }
-        else if (_listPieceRemove[Color.White].Exists(piece => piece.PieceType == PieceType.King) ||
-                 _listPieceRemove[Color.Black].Exists(piece => piece.PieceType == PieceType.King))
-        {
-            _status = GameStatus.CheckMate;
             return true;
         }
         return false;
     }
 
-    private bool _CheckMateGameOver()
+
+    private void _IsUpgradePawn(Piece piece, Location location)
     {
-        if (!_listPieceRemove.ContainsKey(Color.White) || !_listPieceRemove.ContainsKey(Color.Black))
+        if (piece == null)
         {
-            return false;
+            return;
         }
 
-        var whiteKing = _listPieceRemove[Color.White].Find(piece => piece.PieceType == PieceType.King);
-        var blackKing = _listPieceRemove[Color.Black].Find(piece => piece.PieceType == PieceType.King);
-
-        if (whiteKing != null || blackKing != null)
+        if (piece.PieceType == PieceType.Pawn)
         {
-            return true;
-        }
-
-        if (_hasMoved.ContainsKey(Color.White) && _hasMoved.ContainsKey(Color.Black))
-        {
-            if (_hasMoved[Color.White].Count == 0 || _hasMoved[Color.Black].Count == 0)
+            var pieceRemove = _ChooseYourPiece(piece.Color, piece);
+            if (pieceRemove == null)
             {
-                return false;
+                return;
             }
 
-            if (_hasMoved[Color.White].Count + _hasMoved[Color.Black].Count >= 50)
+            var playerColor = piece.Color;
+            var idxPiece = _listPieceRemove[playerColor].Count;
+
+            Console.WriteLine("Bidak naik pangkat! Pilih pengganti (Q/R/B/N):");
+            string upgradeChoice = Console.ReadLine().ToUpper();
+
+            Piece upgradedPiece = upgradeChoice switch
             {
-                return true;
-            }
+                "Q" => new Queen(idxPiece, playerColor),
+                "R" => new Rook(idxPiece, playerColor),
+                "B" => new Bishop(idxPiece, playerColor),
+                "N" => new Knight(idxPiece, playerColor),
+                _ => new Queen(idxPiece, playerColor)
+            };
+
+            _listPieceRemove[playerColor].Add(pieceRemove);
+            _chessBoard.SetPlacePiece(upgradedPiece, location);
+            OnPieceUpgraded?.Invoke(upgradedPiece, location);
         }
-
-        return false;
     }
-
-    private string _NotifyPiece(Color playerColor, Piece piece, NotifyPiece notifyPiece, Piece targetPiece = null)
-    {
-        string message;
-        switch (notifyPiece)
-        {
-            case NotifyPiece.PieceMoved:
-                message = $"Pergerakan sukses: {piece.PieceType} telah bergerak.";
-                break;
-            case NotifyPiece.PieceRemoved:
-                message = $"Pergerakan sukses: {piece.PieceType} dimakan {targetPiece.PieceType}.";
-                break;
-            default:
-                message = "Gerakan tidak dikenali.";
-                break;
-        }
-
-        return message;
-    }
-
-    private void EndTurn()
-    {
-        _currentTurn = _currentTurn == Color.White ? Color.Black : Color.White;
-    }
-
-    public Color CurrentTurn => _currentTurn;
 }

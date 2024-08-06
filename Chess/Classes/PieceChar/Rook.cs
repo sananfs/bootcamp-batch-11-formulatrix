@@ -2,38 +2,46 @@ namespace Chess;
 
 public class Rook : Piece
 {
-	public Rook(int id, Color color) : base(id, color, PieceType.Rook) { }
+    public Rook(int id, Color color) : base(id, color, PieceType.Rook) { }
 
-	public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
-	{
-		var moves = new List<Location>();
-		var possibleMoves = new List<Location>();
-		for (int i = 1; i < 8; i++)
-		{
-			possibleMoves.Add(new Location(currentLocation.X, currentLocation.Y + i));
-			possibleMoves.Add(new Location(currentLocation.X, currentLocation.Y - i));
-			possibleMoves.Add(new Location(currentLocation.X - i, currentLocation.Y));
-			possibleMoves.Add(new Location(currentLocation.X + i, currentLocation.Y));
-		}
+    public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
+    {
+        var moves = new List<Location>();
+        int[] directions = { 1, 0, 0, 1, -1, 0, 0, -1 }; // Right, Up, Left, Down
 
-		foreach (var move in possibleMoves)
-		{
-			if (IsValidMove(board, move))
-			{
-				moves.Add(move);
-			}
-		}
+        for (int i = 0; i < directions.Length; i += 2)
+        {
+            int dx = directions[i];
+            int dy = directions[i + 1];
+            int x = currentLocation.X;
+            int y = currentLocation.Y;
 
-		return moves;
-	}
+            while (true)
+            {
+                x += dx;
+                y += dy;
 
-	private bool IsValidMove(ChessBoard board, Location location)
-	{
-		if (location.X < 0 || location.X >= 8 || location.Y < 0 || location.Y >= 8)
-		{
-			return false;
-		}
-		var pieceAtLocation = board.GetPiece(location);
-		return pieceAtLocation == null || pieceAtLocation.Color != this.Color;
-	}
+                if (x < 0 || x >= 8 || y < 0 || y >= 8)
+                {
+                    break; // Out of bounds
+                }
+
+                Piece target = board.GetPiece(new Location(x, y));
+                if (target == null)
+                {
+                    moves.Add(new Location(x, y));
+                }
+                else
+                {
+                    if (target.Color != Color)
+                    {
+                        moves.Add(new Location(x, y)); // Capture
+                    }
+                    break; // Blocked by a piece
+                }
+            }
+        }
+
+        return moves;
+    }
 }

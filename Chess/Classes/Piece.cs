@@ -1,10 +1,9 @@
 namespace Chess;
-
 public abstract class Piece
 {
     public int Id { get; }
-    public Color Color { get; private set; }
-    public PieceType PieceType { get; private set; }
+    public Color Color { get; }
+    public PieceType PieceType { get; }
     public bool IsActive { get; private set; }
 
     protected Piece(int id, Color color, PieceType pieceType)

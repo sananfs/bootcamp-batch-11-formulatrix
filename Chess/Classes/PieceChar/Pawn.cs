@@ -2,63 +2,45 @@ namespace Chess;
 
 public class Pawn : Piece
 {
-	public Pawn(int id, Color color) : base(id, color, PieceType.Pawn) { }
+    public Pawn(int id, Color color) : base(id, color, PieceType.Pawn) { }
 
-	public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
-	{
-		var moves = new List<Location>();
-		var possibleMoves = new List<Location>();
-		int direction = Color == Color.White ? 1 : -1;
+    public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
+    {
+        var moves = new List<Location>();
+        int direction = Color == Color.White ? 1 : -1;
 
-		possibleMoves.Add(new Location(currentLocation.X, currentLocation.Y + direction));
+        int forwardX = currentLocation.X;
+        int forwardY = currentLocation.Y + direction;
+        if (forwardY >= 0 && forwardY < 8)
+        {
+            if (!board.IsOccupied(new Location(forwardX, forwardY)))
+            {
+                moves.Add(new Location(forwardX, forwardY));
 
-		if ((Color == Color.White && currentLocation.Y == 1) || (Color == Color.Black && currentLocation.Y == 6))
-		{
-			possibleMoves.Add(new Location(currentLocation.X, currentLocation.Y + 2 * direction));
-		}
+                int startRow = Color == Color.White ? 1 : 6;
+                int doubleForwardY = currentLocation.Y + 2 * direction;
+                if (currentLocation.Y == startRow && !board.IsOccupied(new Location(forwardX, doubleForwardY)))
+                {
+                    moves.Add(new Location(forwardX, doubleForwardY));
+                }
+            }
+        }
 
-		possibleMoves.Add(new Location(currentLocation.X - 1, currentLocation.Y + direction));
-		possibleMoves.Add(new Location(currentLocation.X + 1, currentLocation.Y + direction));
+        int[] captureOffsets = { -1, 1 };
+        foreach (int offset in captureOffsets)
+        {
+            int captureX = currentLocation.X + offset;
+            int captureY = currentLocation.Y + direction;
+            if (captureX >= 0 && captureX < 8 && captureY >= 0 && captureY < 8)
+            {
+                Piece target = board.GetPiece(new Location(captureX, captureY));
+                if (target != null && target.Color != Color)
+                {
+                    moves.Add(new Location(captureX, captureY));
+                }
+            }
+        }
 
-		foreach (var move in possibleMoves)
-		{
-			if (IsValidMove(board, move, currentLocation))
-			{
-				moves.Add(move);
-			}
-		}
-
-		return moves;
-	}
-
-	private bool IsValidMove(ChessBoard board, Location location, Location currentLocation)
-	{
-		if (location.X < 0 || location.X >= 8 || location.Y < 0 || location.Y >= 8)
-		{
-			return false;
-		}
-
-		if (location.X == currentLocation.X)
-		{
-			if (board.IsOccupied(location))
-			{
-				return false;
-			}
-		}
-		else
-		{
-			if (!board.IsOccupied(location))
-			{
-				return false;
-			}
-
-			var pieceAtLocation = board.GetPiece(location);
-			if (pieceAtLocation.Color == this.Color)
-			{
-				return false;
-			}
-		}
-
-		return true;
-	}
+        return moves;
+    }
 }

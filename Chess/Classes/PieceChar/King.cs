@@ -2,42 +2,29 @@ namespace Chess;
 
 public class King : Piece
 {
-	public King(int id, Color color) : base(id, color, PieceType.King) { }
+    public King(int id, Color color) : base(id, color, PieceType.King) { }
 
-	public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
-	{
-		var moves = new List<Location>();
+    public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
+    {
+        var moves = new List<Location>();
+        int[] dx = { 1, 1, 1, 0, 0, -1, -1, -1 };
+        int[] dy = { 1, 0, -1, 1, -1, 1, 0, -1 };
 
-		var possibleMoves = new List<Location>
-			{
-				new Location(currentLocation.X + 1, currentLocation.Y),
-				new Location(currentLocation.X - 1, currentLocation.Y),
-				new Location(currentLocation.X, currentLocation.Y + 1),
-				new Location(currentLocation.X, currentLocation.Y - 1),
-				new Location(currentLocation.X + 1, currentLocation.Y + 1),
-				new Location(currentLocation.X + 1, currentLocation.Y - 1),
-				new Location(currentLocation.X - 1, currentLocation.Y + 1),
-				new Location(currentLocation.X - 1, currentLocation.Y - 1)
-			};
+        for (int i = 0; i < dx.Length; i++)
+        {
+            int x = currentLocation.X + dx[i];
+            int y = currentLocation.Y + dy[i];
 
-		foreach (var move in possibleMoves)
-		{
-			if (IsValidMove(board, move))
-			{
-				moves.Add(move);
-			}
-		}
+            if (x >= 0 && x < 8 && y >= 0 && y < 8)
+            {
+                Piece target = board.GetPiece(new Location(x, y));
+                if (target == null || target.Color != Color)
+                {
+                    moves.Add(new Location(x, y));
+                }
+            }
+        }
 
-		return moves;
-	}
-
-	private bool IsValidMove(ChessBoard board, Location location)
-	{
-		if (location.X < 0 || location.X >= 8 || location.Y < 0 || location.Y >= 8)
-		{
-			return false;
-		}
-		var pieceAtLocation = board.GetPiece(location);
-		return pieceAtLocation == null || pieceAtLocation.Color != this.Color;
-	}
+        return moves;
+    }
 }

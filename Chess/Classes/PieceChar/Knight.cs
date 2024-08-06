@@ -7,26 +7,20 @@ public class Knight : Piece
     public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
     {
         var moves = new List<Location>();
-        var possibleMoves = new List<Location>
-        {
-            new Location(currentLocation.X + 2, currentLocation.Y + 1),
-            new Location(currentLocation.X + 2, currentLocation.Y - 1),
-            new Location(currentLocation.X - 2, currentLocation.Y + 1),
-            new Location(currentLocation.X - 2, currentLocation.Y - 1),
-            new Location(currentLocation.X + 1, currentLocation.Y + 2),
-            new Location(currentLocation.X + 1, currentLocation.Y - 2),
-            new Location(currentLocation.X - 1, currentLocation.Y + 2),
-            new Location(currentLocation.X - 1, currentLocation.Y - 2),
-        };
+        int[] dx = { 2, 2, -2, -2, 1, 1, -1, -1 };
+        int[] dy = { 1, -1, 1, -1, 2, -2, 2, -2 };
 
-        foreach (var move in possibleMoves)
+        for (int i = 0; i < dx.Length; i++)
         {
-            if (move.X >= 0 && move.X < 8 && move.Y >= 0 && move.Y < 8)
+            int x = currentLocation.X + dx[i];
+            int y = currentLocation.Y + dy[i];
+
+            if (x >= 0 && x < 8 && y >= 0 && y < 8)
             {
-                var pieceAtLocation = board.GetPiece(move);
-                if (pieceAtLocation == null || pieceAtLocation.Color != this.Color)
+                Piece target = board.GetPiece(new Location(x, y));
+                if (target == null || target.Color != Color)
                 {
-                    moves.Add(move);
+                    moves.Add(new Location(x, y));
                 }
             }
         }
@@ -34,3 +28,4 @@ public class Knight : Piece
         return moves;
     }
 }
+

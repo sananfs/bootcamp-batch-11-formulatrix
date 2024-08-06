@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -232,6 +232,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chess", "Chess", "{F7CB1D92-6A8B-43AB-99FD-E764FF78F758}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{D4B5460D-254C-4F9E-9CBC-42AB8D8D0AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessRmk", "ChessRmk\ChessRmk.csproj", "{01B9CD4E-9E15-4078-B0A3-50F033C9D480}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChessRmk", "ChessRmk", "{99F87665-7E54-4965-A328-8B44393AF971}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -643,6 +647,10 @@ Global
 		{D4B5460D-254C-4F9E-9CBC-42AB8D8D0AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4B5460D-254C-4F9E-9CBC-42AB8D8D0AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4B5460D-254C-4F9E-9CBC-42AB8D8D0AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B9CD4E-9E15-4078-B0A3-50F033C9D480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B9CD4E-9E15-4078-B0A3-50F033C9D480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B9CD4E-9E15-4078-B0A3-50F033C9D480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B9CD4E-9E15-4078-B0A3-50F033C9D480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -651,6 +659,7 @@ Global
 		SolutionGuid = {FD7E404F-88DE-4983-8EAF-177A4FA590B9}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{01B9CD4E-9E15-4078-B0A3-50F033C9D480} = {99F87665-7E54-4965-A328-8B44393AF971}
 		{23AC6F67-7E99-48D1-953D-5FE8E4CE9C2D} = {33A16C64-068A-4044-88CD-B2B6DB4A186A}
 		{4B04A171-CD97-4A1A-8A94-F183E7DB1915} = {33A16C64-068A-4044-88CD-B2B6DB4A186A}
 		{CD0E613E-A4EC-4CDE-9BDF-642004525585} = {33A16C64-068A-4044-88CD-B2B6DB4A186A}
