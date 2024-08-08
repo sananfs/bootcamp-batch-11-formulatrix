@@ -1,16 +1,24 @@
 namespace Chess;
+
 public class Location
-    {
-        public int X { get; }
-        public int Y { get; }
+{
+	public int X { get; }
+	public int Y { get; }
 
-        public Location(int x, int y)
-        {
-            X = x;
-            Y = y;
-        }
+	public Location(int x, int y)
+	{
+		if (x < 0 || x >= ChessBoard.BoardSize || y < 0 || y >= ChessBoard.BoardSize)
+		{
+			throw new ArgumentException("Koordinat di luar batas papan.");
+		}
 
-        public override bool Equals(object obj)
+		X = x;
+		Y = y;
+	}
+
+	public override string ToString() => $"({X}, {Y})";
+	
+	public override bool Equals(object obj)
         {
             if (obj is Location other)
             {
@@ -23,4 +31,4 @@ public class Location
         {
             return HashCode.Combine(X, Y);
         }
-    }
+}

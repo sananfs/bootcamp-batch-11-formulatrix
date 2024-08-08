@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\DeserializeXML\\DeserializeXML.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj": {}
   },
   "projects": {
-    "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\DeserializeXML\\DeserializeXML.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\DeserializeXML\\DeserializeXML.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj",
         "projectName": "DeserializeXML",
-        "projectPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\DeserializeXML\\DeserializeXML.csproj",
-        "packagesPath": "C:\\Users\\sanan\\.nuget\\packages\\",
-        "outputPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\DeserializeXML\\obj\\",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\DeserializeXML.csproj",
+        "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\DeserializeXML\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sanan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

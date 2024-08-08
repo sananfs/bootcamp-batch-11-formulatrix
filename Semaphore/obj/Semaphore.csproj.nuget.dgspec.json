@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Semaphore\\Semaphore.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Semaphore\\Semaphore.csproj": {}
   },
   "projects": {
-    "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Semaphore\\Semaphore.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Semaphore\\Semaphore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Semaphore\\Semaphore.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Semaphore\\Semaphore.csproj",
         "projectName": "Semaphore",
-        "projectPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Semaphore\\Semaphore.csproj",
-        "packagesPath": "C:\\Users\\sanan\\.nuget\\packages\\",
-        "outputPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Semaphore\\obj\\",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Semaphore\\Semaphore.csproj",
+        "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Semaphore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sanan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

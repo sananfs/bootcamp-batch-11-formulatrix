@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sanan\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 11\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\InternalTest\\InternalTest.csproj",
+      "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\InternalTest\\InternalTest.csproj",
       "projectName": "InternalTest",
-      "projectPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\InternalTest\\InternalTest.csproj",
-      "packagesPath": "C:\\Users\\sanan\\.nuget\\packages\\",
-      "outputPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\InternalTest\\obj\\",
+      "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\InternalTest\\InternalTest.csproj",
+      "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\InternalTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sanan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Encapsulation\\Encapsulation.csproj": {
-              "projectPath": "D:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Encapsulation\\Encapsulation.csproj"
+            "C:\\Users\\Batch 11\\Desktop\\Batch11\\Encapsulation\\Encapsulation.csproj": {
+              "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Encapsulation\\Encapsulation.csproj"
             }
           }
         }
@@ -87,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Chess\\Chess.csproj": {}
+    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj": {}
   },
   "projects": {
-    "d:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Chess\\Chess.csproj": {
+    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Chess\\Chess.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj",
         "projectName": "Chess",
-        "projectPath": "d:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Chess\\Chess.csproj",
-        "packagesPath": "C:\\Users\\sanan\\.nuget\\packages\\",
-        "outputPath": "d:\\Belajar\\Formulatrix\\bootcamp-batch-11-formulatrix\\Chess\\obj\\",
+        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj",
+        "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sanan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
