@@ -7,7 +7,7 @@ public class Pawn : Piece
 	public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
 	{
 		var moves = new List<Location>();
-		int[] directions = { 1, 0, 0, 1, -1, 0, 0, -1 }; // Right, Up, Left, Down
+		int[] directions = { 1, 0, 0, 1, -1, 0, 0, -1 };
 
         for (int i = 0; i < directions.Length; i++)
         {
@@ -23,7 +23,7 @@ public class Pawn : Piece
 
                 if (x < 0 || x >= 8 || y < 0 || y >= 8)
                 {
-                    break; // Out of bounds
+                    break;
                 }
 
                 Piece target = board.GetPiece(new Location(x, y));
@@ -35,9 +35,9 @@ public class Pawn : Piece
                 {
                     if (target.Color != Color)
                     {
-                        moves.Add(new Location(x, y)); // Capture
+                        moves.Add(new Location(x, y));
                     }
-                    break; // Blocked by a piece
+                    break;
                 }
             }
         }
