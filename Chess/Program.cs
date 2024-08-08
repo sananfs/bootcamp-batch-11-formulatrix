@@ -7,7 +7,6 @@ namespace Chess
     {
         static void Main()
         {
-            // Inisialisasi papan catur dengan setup awal
             ChessBoard chessBoard = InitializeChessBoard();
 
             Console.WriteLine("Masukkan nama untuk pemain putih:");
@@ -21,7 +20,6 @@ namespace Chess
                 { Color.Black, blackPlayerName }
             };
 
-            // Inisialisasi GameController
             GameController gameController = new GameController(playerNames, chessBoard);
 
             while (!gameController.EndGame())
@@ -33,7 +31,6 @@ namespace Chess
 
                 Console.WriteLine($"Giliran {currentPlayerName} ({currentPlayerColor}).");
 
-                // Input lokasi bidak
                 Console.WriteLine("Masukkan lokasi bidak yang akan digerakkan (X Y): ");
                 if (!TryParseLocation(out Location pieceLocation))
                 {
@@ -56,17 +53,14 @@ namespace Chess
                     continue;
                 }
 
-                // Cek apakah bidak dapat bergerak
                 if (!gameController.CanMovePiece(currentPlayerColor, selectedPiece, out List<Location> possibleMoves, out string message))
                 {
                     Console.WriteLine($"Error: {message}");
                     continue;
                 }
 
-                // Tampilkan gerakan legal
-                Console.WriteLine($"Gerakan legal untuk bidak yang dipilih: {string.Join(", ", possibleMoves.Select(loc => $"{loc.X} {loc.Y}"))}");
+                Console.WriteLine($"Gerakan legal untuk bidak yang dipilih: {string.Join(", ", possibleMoves.Select(loc => $"{loc.Y} {loc.X}"))}");
 
-                // Gerakkan bidak
                 if (!gameController.MovePiece(currentPlayerColor, selectedPiece, destinationLocation))
                 {
                     Console.WriteLine("Error: Gerakan tidak dapat dilakukan.");
@@ -102,7 +96,7 @@ namespace Chess
         private static void DisplayChessBoard(ChessBoard chessBoard)
         {
             Piece[,] board = chessBoard.GetChessBoard();
-            Console.WriteLine("X  0 1 2 3 4 5 6 7");
+            Console.WriteLine(" X 0 1 2 3 4 5 6 7");
             Console.WriteLine("Y+----------------");
 
             for (int y = ChessBoard.BoardSize - 1; y >= 0; y--)

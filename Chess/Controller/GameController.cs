@@ -10,11 +10,9 @@ public class GameController
     private Color _currentTurn;
     private GameStatus _status;
 
-    // Menyimpan bidak yang diambil dan yang telah bergerak
     private Dictionary<Color, List<Piece>> _piecesRemoved;
     private Dictionary<Color, List<Piece>> _hasMoved;
 
-    // Event untuk notifikasi perubahan
     public Action<Piece, Location> OnPieceEaten;
     public Action<Piece, Location> OnPieceMoved;
     public Action<Piece, Location> OnPieceUpgraded;
@@ -81,10 +79,8 @@ public class GameController
             return false;
         }
 
-        // Pindahkan bidak
         _chessBoard.SetPlacePiece(selectedPiece, destination);
 
-        // Cek apakah terjadi skak
         if (IsCheck(_currentTurn))
         {
             _status = GameStatus.Check;
@@ -94,14 +90,12 @@ public class GameController
             _status = GameStatus.OnGoing;
         }
 
-        // Ganti giliran
         _currentTurn = _currentTurn == Color.White ? Color.Black : Color.White;
 
-        // Jika bidak merupakan pawn dan mencapai baris terakhir
-        // if (IsUpgradePawn(selectedPiece, destination))
-        // {
-        //     UpgradePawn(selectedPiece, destination);
-        // }
+        if (IsUpgradePawn(selectedPiece, destination))
+        {
+            UpgradePawn(selectedPiece, destination);
+        }
 
         return true;
     }
@@ -110,7 +104,6 @@ public class GameController
     {
         Location kingLocation = null;
 
-        // Temukan lokasi raja
         for (int x = 0; x < ChessBoard.BoardSize; x++)
         {
             for (int y = 0; y < ChessBoard.BoardSize; y++)
@@ -126,7 +119,6 @@ public class GameController
 
         if (kingLocation == null) return false;
 
-        // Cek apakah raja dalam ancaman
         Color opponentColor = kingColor == Color.White ? Color.Black : Color.White;
         for (int x = 0; x < ChessBoard.BoardSize; x++)
         {
@@ -147,43 +139,43 @@ public class GameController
         return false;
     }
 
-    // private bool IsUpgradePawn(Piece piece, Location location)
-    // {
-    //     if (piece == null || piece.PieceType != PieceType.Pawn)
-    //     {
-    //         return false;
-    //     }
+    private bool IsUpgradePawn(Piece piece, Location location)
+    {
+        if (piece == null || piece.PieceType != PieceType.Pawn)
+        {
+            return false;
+        }
 
-    //     return (piece.Color == Color.White && location.Y == ChessBoard.BoardSize - 1) ||
-    //            (piece.Color == Color.Black && location.Y == 0);
-    // }
+        return (piece.Color == Color.White && location.Y == ChessBoard.BoardSize - 1) ||
+               (piece.Color == Color.Black && location.Y == 0);
+    }
 
-    // private void UpgradePawn(Piece piece, Location location)
-    // {
-    //     if (piece == null || piece.PieceType != PieceType.Pawn)
-    //     {
-    //         return;
-    //     }
+    private void UpgradePawn(Piece piece, Location location)
+    {
+        if (piece == null || piece.PieceType != PieceType.Pawn)
+        {
+            return;
+        }
 
-    //     var playerColor = piece.Color;
-    //     var idxPiece = _piecesRemoved[playerColor].Count;
+        var playerColor = piece.Color;
+        var idxPiece = _piecesRemoved[playerColor].Count;
 
-    //     Console.WriteLine("Bidak naik pangkat! Pilih pengganti (Q/R/B/N):");
-    //     string upgradeChoice = Console.ReadLine().ToUpper();
+        Console.WriteLine("Bidak naik pangkat! Pilih pengganti (Q/R/B/N):");
+        string upgradeChoice = Console.ReadLine().ToUpper();
 
-    //     Piece upgradedPiece = upgradeChoice switch
-    //     {
-    //         "Q" => new Queen(idxPiece, playerColor),
-    //         "R" => new Rook(idxPiece, playerColor),
-    //         "B" => new Bishop(idxPiece, playerColor),
-    //         "N" => new Knight(idxPiece, playerColor),
-    //         _ => new Queen(idxPiece, playerColor) // Default ke Queen jika input tidak valid
-    //     };
+        Piece upgradedPiece = upgradeChoice switch
+        {
+            "Q" => new Queen(idxPiece, playerColor),
+            "R" => new Rook(idxPiece, playerColor),
+            "B" => new Bishop(idxPiece, playerColor),
+            "N" => new Knight(idxPiece, playerColor),
+            _ => new Queen(idxPiece, playerColor)
+        };
 
-    //     _piecesRemoved[playerColor].Add(piece);
-    //     _chessBoard.SetPlacePiece(upgradedPiece, location);
-    //     OnPieceUpgraded?.Invoke(upgradedPiece, location);
-    // }
+        _piecesRemoved[playerColor].Add(piece);
+        _chessBoard.SetPlacePiece(upgradedPiece, location);
+        OnPieceUpgraded?.Invoke(upgradedPiece, location);
+    }
 
     public bool EndGame()
     {

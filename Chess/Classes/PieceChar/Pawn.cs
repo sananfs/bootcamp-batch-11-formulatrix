@@ -7,43 +7,43 @@ public class Pawn : Piece
 	public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
 	{
 		var moves = new List<Location>();
-		int[] directions = { 1, 0, 0, 1, -1, 0, 0, -1 };
+		int[] directions = { 1, 0, 0, 1, 1, 0, 0, 1 };
 
-        for (int i = 0; i < directions.Length; i++)
-        {
-            int dx = currentLocation.X;
-            int dy = directions[i];
-            int x = currentLocation.X;
-            int y = currentLocation.Y;
+		for (int i = 0; i < directions.Length; i++)
+		{
+			int dx = currentLocation.X;
+			int dy = directions[i];
+			int x = currentLocation.X;
+			int y = currentLocation.Y;
 
-            while (true)
-            {
-                x += dx;
-                y += dy;
+			while (true)
+			{
+				x += dx;
+				y += dy;
 
-                if (x < 0 || x >= 8 || y < 0 || y >= 8)
-                {
-                    break;
-                }
+				if (x < 0 || x >= 8 || y < 0 || y >= 8)
+				{
+					break;
+				}
 
-                Piece target = board.GetPiece(new Location(x, y));
-                if (target == null)
-                {
-                    moves.Add(new Location(x, y));
-                }
-                else
-                {
-                    if (target.Color != Color)
-                    {
-                        moves.Add(new Location(x, y));
-                    }
-                    break;
-                }
-            }
-        }
+				Piece target = board.GetPiece(new Location(x, y));
+				if (target == null)
+				{
+					moves.Add(new Location(x, y));
+				}
+				else
+				{
+					if (target.Color != Color)
+					{
+						moves.Add(new Location(x, y));
+					}
+					break;
+				}
+			}
+		}
 
-        return moves;
-    }
+		return moves;
+	}
 	//     int direction = Color == Color.White ? 1 : -1;
 
 	//     // Gerakan maju satu langkah
@@ -53,7 +53,7 @@ public class Pawn : Piece
 	//     {
 	//         moves.Add(new Location(forwardX, forwardY));
 
-	//         Gerakan maju dua langkah dari posisi awal
+	//         // Gerakan maju dua langkah dari posisi awal
 	//         int startRow = Color == Color.White ? 1 : 6;
 	//         int doubleForwardY = currentLocation.Y + 2 * direction;
 	//         if (currentLocation.Y == startRow && !board.IsOccupied(new Location(forwardX, doubleForwardY)))
