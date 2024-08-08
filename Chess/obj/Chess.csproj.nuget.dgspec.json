@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj",
         "projectName": "Chess",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\Chess.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\Chess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
