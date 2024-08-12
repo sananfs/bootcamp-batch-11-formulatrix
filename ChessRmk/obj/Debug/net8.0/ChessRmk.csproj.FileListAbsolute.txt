@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\bin\Debug\net8.0\ChessRmk.exe
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\bin\Debug\net8.0\ChessRmk.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\bin\Debug\net8.0\ChessRmk.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\bin\Debug\net8.0\ChessRmk.dll
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\bin\Debug\net8.0\ChessRmk.pdb
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.dll
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\refint\ChessRmk.dll
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.pdb
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ChessRmk.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ChessRmk\obj\Debug\net8.0\ref\ChessRmk.dll

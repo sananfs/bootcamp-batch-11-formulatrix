@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\bin\Debug\net8.0\ConditionalCompilation.exe
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\bin\Debug\net8.0\ConditionalCompilation.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\bin\Debug\net8.0\ConditionalCompilation.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\bin\Debug\net8.0\ConditionalCompilation.dll
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\bin\Debug\net8.0\ConditionalCompilation.pdb
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.dll
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\refint\ConditionalCompilation.dll
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.pdb
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ConditionalCompilation.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ConditionalCompilation\obj\Debug\net8.0\ref\ConditionalCompilation.dll

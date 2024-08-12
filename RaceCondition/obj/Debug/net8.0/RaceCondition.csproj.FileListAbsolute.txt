@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\bin\Debug\net8.0\RaceCondition.exe
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\bin\Debug\net8.0\RaceCondition.deps.json
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\bin\Debug\net8.0\RaceCondition.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\bin\Debug\net8.0\RaceCondition.dll
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\bin\Debug\net8.0\RaceCondition.pdb
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.dll
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\refint\RaceCondition.dll
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.pdb
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\RaceCondition.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\RaceCondition\obj\Debug\net8.0\ref\RaceCondition.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackgroundThread")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de89444cfb0c435ef1e6ee03ca9d94a51af87ef3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66438ea74d5fb0ea3aa6e9d9121f8dd249abb248")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackgroundThread")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackgroundThread")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

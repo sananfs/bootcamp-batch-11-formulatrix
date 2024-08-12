@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\HotReload\bin\Debug\net8.0\HotReload.exe
+C:\Users\Batch 11\Desktop\Batch11\HotReload\bin\Debug\net8.0\HotReload.deps.json
+C:\Users\Batch 11\Desktop\Batch11\HotReload\bin\Debug\net8.0\HotReload.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\HotReload\bin\Debug\net8.0\HotReload.dll
+C:\Users\Batch 11\Desktop\Batch11\HotReload\bin\Debug\net8.0\HotReload.pdb
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.dll
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\refint\HotReload.dll
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.pdb
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\HotReload.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\HotReload\obj\Debug\net8.0\ref\HotReload.dll

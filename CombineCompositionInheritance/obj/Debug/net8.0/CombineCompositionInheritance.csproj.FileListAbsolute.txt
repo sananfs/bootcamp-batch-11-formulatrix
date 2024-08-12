@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\bin\Debug\net8.0\CombineCompositionInheritance.exe
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\bin\Debug\net8.0\CombineCompositionInheritance.deps.json
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\bin\Debug\net8.0\CombineCompositionInheritance.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\bin\Debug\net8.0\CombineCompositionInheritance.dll
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\bin\Debug\net8.0\CombineCompositionInheritance.pdb
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.dll
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\refint\CombineCompositionInheritance.dll
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.pdb
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\CombineCompositionInheritance.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\CombineCompositionInheritance\obj\Debug\net8.0\ref\CombineCompositionInheritance.dll

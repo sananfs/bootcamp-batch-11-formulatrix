@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\bin\Debug\net8.0\ThreadReturn.exe
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\bin\Debug\net8.0\ThreadReturn.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\bin\Debug\net8.0\ThreadReturn.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\bin\Debug\net8.0\ThreadReturn.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\bin\Debug\net8.0\ThreadReturn.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\refint\ThreadReturn.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ThreadReturn.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadReturn\obj\Debug\net8.0\ref\ThreadReturn.dll

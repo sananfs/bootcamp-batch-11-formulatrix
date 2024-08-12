@@ -8,7 +8,7 @@ public class GameController
     private Dictionary<Color, string> _players;
     private ChessBoard _chessBoard;
     private Color _currentTurn;
-    private GameStatus _status;
+                                                                                                                                                                                                                                         GameStatus _status;
 
     private Dictionary<Color, List<Piece>> _piecesRemoved;
     private Dictionary<Color, List<Piece>> _hasMoved;

@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\bin\Debug\net8.0\CreateTask.exe
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\bin\Debug\net8.0\CreateTask.deps.json
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\bin\Debug\net8.0\CreateTask.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\bin\Debug\net8.0\CreateTask.dll
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\bin\Debug\net8.0\CreateTask.pdb
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.dll
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\refint\CreateTask.dll
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.pdb
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\CreateTask.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\CreateTask\obj\Debug\net8.0\ref\CreateTask.dll

@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\bin\Debug\net8.0\FinalizersInheritance.exe
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\bin\Debug\net8.0\FinalizersInheritance.deps.json
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\bin\Debug\net8.0\FinalizersInheritance.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\bin\Debug\net8.0\FinalizersInheritance.dll
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\bin\Debug\net8.0\FinalizersInheritance.pdb
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.dll
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\refint\FinalizersInheritance.dll
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.pdb
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\FinalizersInheritance.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\FinalizersInheritance\obj\Debug\net8.0\ref\FinalizersInheritance.dll

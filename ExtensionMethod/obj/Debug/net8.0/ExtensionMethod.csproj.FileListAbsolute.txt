@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll

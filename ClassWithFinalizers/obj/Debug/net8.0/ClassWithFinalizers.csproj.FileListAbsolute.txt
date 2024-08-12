@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\bin\Debug\net8.0\ClassWithFinalizers.exe
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\bin\Debug\net8.0\ClassWithFinalizers.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\bin\Debug\net8.0\ClassWithFinalizers.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\bin\Debug\net8.0\ClassWithFinalizers.dll
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\bin\Debug\net8.0\ClassWithFinalizers.pdb
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.dll
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\refint\ClassWithFinalizers.dll
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.pdb
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ClassWithFinalizers.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ClassWithFinalizers\obj\Debug\net8.0\ref\ClassWithFinalizers.dll

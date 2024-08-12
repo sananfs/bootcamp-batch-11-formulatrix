@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\refint\Constructo
 C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.pdb
 c:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.genruntimeconfig.cache
 c:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\ref\Constructor.dll
+C:\Users\Batch 11\Desktop\Batch11\Constructor\obj\Debug\net8.0\Constructor.sourcelink.json

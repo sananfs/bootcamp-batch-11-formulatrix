@@ -1,0 +1,5 @@
+C:\Users\Batch 11\Desktop\Batch11\KuisDadakan\obj\Debug\net8.0\KuisDadakan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\KuisDadakan\obj\Debug\net8.0\KuisDadakan.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\KuisDadakan\obj\Debug\net8.0\KuisDadakan.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\KuisDadakan\obj\Debug\net8.0\KuisDadakan.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\KuisDadakan\obj\Debug\net8.0\KuisDadakan.sourcelink.json

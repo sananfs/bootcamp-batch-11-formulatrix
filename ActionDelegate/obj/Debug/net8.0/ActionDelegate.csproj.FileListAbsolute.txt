@@ -3,3 +3,13 @@ C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ActionDelegate
 C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ActionDelegate.AssemblyInfo.cs
 C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ActionDelegate.csproj.CoreCompileInputs.cache
 C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ActionDelegate.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\bin\Debug\net8.0\ActionDelegate.exe
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\bin\Debug\net8.0\ActionDelegate.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\bin\Debug\net8.0\ActionDelegate.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\bin\Debug\net8.0\ActionDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\bin\Debug\net8.0\ActionDelegate.pdb
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ActionDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\refint\ActionDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ActionDelegate.pdb
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ActionDelegate.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ActionDelegate\obj\Debug\net8.0\ref\ActionDelegate.dll

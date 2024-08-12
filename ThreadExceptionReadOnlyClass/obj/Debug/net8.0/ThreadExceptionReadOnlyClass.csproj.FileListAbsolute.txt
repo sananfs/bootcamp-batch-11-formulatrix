@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\bin\Debug\net8.0\ThreadExceptionReadOnlyClass.exe
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\bin\Debug\net8.0\ThreadExceptionReadOnlyClass.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\bin\Debug\net8.0\ThreadExceptionReadOnlyClass.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\bin\Debug\net8.0\ThreadExceptionReadOnlyClass.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\bin\Debug\net8.0\ThreadExceptionReadOnlyClass.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\refint\ThreadExceptionReadOnlyClass.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ThreadExceptionReadOnlyClass.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionReadOnlyClass\obj\Debug\net8.0\ref\ThreadExceptionReadOnlyClass.dll

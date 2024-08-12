@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\bin\Debug\net8.0\TutorialDelegate.exe
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\bin\Debug\net8.0\TutorialDelegate.deps.json
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\bin\Debug\net8.0\TutorialDelegate.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\bin\Debug\net8.0\TutorialDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\bin\Debug\net8.0\TutorialDelegate.pdb
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\refint\TutorialDelegate.dll
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.pdb
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\TutorialDelegate.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\TutorialDelegate\obj\Debug\net8.0\ref\TutorialDelegate.dll

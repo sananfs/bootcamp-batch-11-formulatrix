@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\bin\Debug\net8.0\MyCalculator.exe
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\bin\Debug\net8.0\MyCalculator.deps.json
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\bin\Debug\net8.0\MyCalculator.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\bin\Debug\net8.0\MyCalculator.dll
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\bin\Debug\net8.0\MyCalculator.pdb
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.dll
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\refint\MyCalculator.dll
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.pdb
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\MyCalculator.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\MyCalculator\obj\Debug\net8.0\ref\MyCalculator.dll

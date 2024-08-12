@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\bin\Debug\net8.0\ParameterSolutionThread.exe
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\bin\Debug\net8.0\ParameterSolutionThread.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\bin\Debug\net8.0\ParameterSolutionThread.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\bin\Debug\net8.0\ParameterSolutionThread.dll
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\bin\Debug\net8.0\ParameterSolutionThread.pdb
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.dll
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\refint\ParameterSolutionThread.dll
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.pdb
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ParameterSolutionThread.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ParameterSolutionThread\obj\Debug\net8.0\ref\ParameterSolutionThread.dll

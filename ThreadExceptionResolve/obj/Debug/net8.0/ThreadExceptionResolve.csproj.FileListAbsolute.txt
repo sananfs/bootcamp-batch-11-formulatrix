@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\bin\Debug\net8.0\ThreadExceptionResolve.exe
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\bin\Debug\net8.0\ThreadExceptionResolve.deps.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\bin\Debug\net8.0\ThreadExceptionResolve.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\bin\Debug\net8.0\ThreadExceptionResolve.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\bin\Debug\net8.0\ThreadExceptionResolve.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\refint\ThreadExceptionResolve.dll
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.pdb
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ThreadExceptionResolve.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\ThreadExceptionResolve\obj\Debug\net8.0\ref\ThreadExceptionResolve.dll

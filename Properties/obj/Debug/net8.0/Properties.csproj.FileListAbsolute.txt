@@ -1,0 +1,5 @@
+C:\Users\Batch 11\Desktop\Batch11\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Properties\obj\Debug\net8.0\Properties.sourcelink.json

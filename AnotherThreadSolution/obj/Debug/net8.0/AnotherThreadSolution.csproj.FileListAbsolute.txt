@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\bin\Debug\net8.0\AnotherThreadSolution.exe
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\bin\Debug\net8.0\AnotherThreadSolution.deps.json
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\bin\Debug\net8.0\AnotherThreadSolution.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\bin\Debug\net8.0\AnotherThreadSolution.dll
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\bin\Debug\net8.0\AnotherThreadSolution.pdb
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.dll
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\refint\AnotherThreadSolution.dll
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.pdb
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\AnotherThreadSolution.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\AnotherThreadSolution\obj\Debug\net8.0\ref\AnotherThreadSolution.dll

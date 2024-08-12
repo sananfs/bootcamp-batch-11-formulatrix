@@ -1,0 +1,5 @@
+C:\Users\Batch 11\Desktop\Batch11\Partial\obj\Debug\net8.0\Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Partial\obj\Debug\net8.0\Partial.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Partial\obj\Debug\net8.0\Partial.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Partial\obj\Debug\net8.0\Partial.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Partial\obj\Debug\net8.0\Partial.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\bin\Debug\net8.0\StreamWriteReader.exe
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\bin\Debug\net8.0\StreamWriteReader.deps.json
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\bin\Debug\net8.0\StreamWriteReader.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\bin\Debug\net8.0\StreamWriteReader.dll
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\bin\Debug\net8.0\StreamWriteReader.pdb
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.dll
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\refint\StreamWriteReader.dll
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.pdb
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\StreamWriteReader.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\StreamWriteReader\obj\Debug\net8.0\ref\StreamWriteReader.dll

@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Batch11\Composition\obj\Debug\net8.0\refint\Compositio
 C:\Users\Batch 11\Desktop\Batch11\Composition\obj\Debug\net8.0\Composition.pdb
 c:\Users\Batch 11\Desktop\Batch11\Composition\obj\Debug\net8.0\Composition.genruntimeconfig.cache
 c:\Users\Batch 11\Desktop\Batch11\Composition\obj\Debug\net8.0\ref\Composition.dll
+C:\Users\Batch 11\Desktop\Batch11\Composition\obj\Debug\net8.0\Composition.sourcelink.json

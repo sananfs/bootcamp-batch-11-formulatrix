@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\TryParse\bin\Debug\net8.0\TryParse.exe
+C:\Users\Batch 11\Desktop\Batch11\TryParse\bin\Debug\net8.0\TryParse.deps.json
+C:\Users\Batch 11\Desktop\Batch11\TryParse\bin\Debug\net8.0\TryParse.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\TryParse\bin\Debug\net8.0\TryParse.dll
+C:\Users\Batch 11\Desktop\Batch11\TryParse\bin\Debug\net8.0\TryParse.pdb
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.dll
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\refint\TryParse.dll
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.pdb
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\TryParse.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\TryParse\obj\Debug\net8.0\ref\TryParse.dll

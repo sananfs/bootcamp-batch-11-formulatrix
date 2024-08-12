@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\bin\Debug\net8.0\FileStreamFileShare.exe
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\bin\Debug\net8.0\FileStreamFileShare.deps.json
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\bin\Debug\net8.0\FileStreamFileShare.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\bin\Debug\net8.0\FileStreamFileShare.dll
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\bin\Debug\net8.0\FileStreamFileShare.pdb
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.dll
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\refint\FileStreamFileShare.dll
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.pdb
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\FileStreamFileShare.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\FileStreamFileShare\obj\Debug\net8.0\ref\FileStreamFileShare.dll

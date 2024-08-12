@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Batch11\Inheritance\obj\Debug\net8.0\refint\Inheritanc
 C:\Users\Batch 11\Desktop\Batch11\Inheritance\obj\Debug\net8.0\Inheritance.pdb
 c:\Users\Batch 11\Desktop\Batch11\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
 c:\Users\Batch 11\Desktop\Batch11\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
+C:\Users\Batch 11\Desktop\Batch11\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json

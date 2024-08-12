@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\bin\Debug\net8.0\AnonymousMethodOrLambaExpression.exe
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\bin\Debug\net8.0\AnonymousMethodOrLambaExpression.deps.json
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\bin\Debug\net8.0\AnonymousMethodOrLambaExpression.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\bin\Debug\net8.0\AnonymousMethodOrLambaExpression.dll
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\bin\Debug\net8.0\AnonymousMethodOrLambaExpression.pdb
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.dll
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\refint\AnonymousMethodOrLambaExpression.dll
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.pdb
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\AnonymousMethodOrLambaExpression.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\AnonymousMethodOrLambaExpression\obj\Debug\net8.0\ref\AnonymousMethodOrLambaExpression.dll

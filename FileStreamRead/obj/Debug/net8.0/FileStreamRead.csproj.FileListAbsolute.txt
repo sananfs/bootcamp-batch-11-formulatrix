@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\bin\Debug\net8.0\FileStreamRead.exe
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\bin\Debug\net8.0\FileStreamRead.deps.json
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\bin\Debug\net8.0\FileStreamRead.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\bin\Debug\net8.0\FileStreamRead.dll
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\bin\Debug\net8.0\FileStreamRead.pdb
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.dll
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\refint\FileStreamRead.dll
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.pdb
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\FileStreamRead.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\FileStreamRead\obj\Debug\net8.0\ref\FileStreamRead.dll

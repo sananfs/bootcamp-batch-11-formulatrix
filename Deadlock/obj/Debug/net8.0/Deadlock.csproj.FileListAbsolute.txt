@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\bin\Debug\net8.0\Deadlock.exe
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\bin\Debug\net8.0\Deadlock.deps.json
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\bin\Debug\net8.0\Deadlock.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\bin\Debug\net8.0\Deadlock.dll
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\bin\Debug\net8.0\Deadlock.pdb
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.dll
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\refint\Deadlock.dll
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.pdb
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\Deadlock.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\Deadlock\obj\Debug\net8.0\ref\Deadlock.dll

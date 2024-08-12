@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\bin\Debug\net8.0\thirdProject.exe
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\bin\Debug\net8.0\thirdProject.deps.json
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\bin\Debug\net8.0\thirdProject.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\bin\Debug\net8.0\thirdProject.dll
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\bin\Debug\net8.0\thirdProject.pdb
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.dll
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\refint\thirdProject.dll
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.pdb
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\thirdProject.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\thirdProject\obj\Debug\net8.0\ref\thirdProject.dll

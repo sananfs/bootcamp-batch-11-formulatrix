@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\bin\Debug\net8.0\GC_LOH_String.exe
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\bin\Debug\net8.0\GC_LOH_String.deps.json
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\bin\Debug\net8.0\GC_LOH_String.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\bin\Debug\net8.0\GC_LOH_String.dll
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\bin\Debug\net8.0\GC_LOH_String.pdb
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.dll
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\refint\GC_LOH_String.dll
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.pdb
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\GC_LOH_String.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\GC_LOH_String\obj\Debug\net8.0\ref\GC_LOH_String.dll

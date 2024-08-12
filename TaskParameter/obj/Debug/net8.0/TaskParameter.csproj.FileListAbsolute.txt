@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\bin\Debug\net8.0\TaskParameter.exe
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\bin\Debug\net8.0\TaskParameter.deps.json
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\bin\Debug\net8.0\TaskParameter.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\bin\Debug\net8.0\TaskParameter.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\bin\Debug\net8.0\TaskParameter.pdb
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\refint\TaskParameter.dll
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.pdb
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\TaskParameter.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch11\TaskParameter\obj\Debug\net8.0\ref\TaskParameter.dll
