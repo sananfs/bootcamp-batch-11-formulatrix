@@ -7,61 +7,51 @@ public class Pawn : Piece
 	public override List<Location> GetLegalMoves(ChessBoard board, Location currentLocation)
 	{
 		var moves = new List<Location>();
-		 // Tentukan array directions berdasarkan warna Pawn
-            int[] directions;
+		int[] directions;
             if (Color == Color.White)
             {
-                // White Pawn moves up
-                directions = new int[] { 1, 0, 0, 1, 1, 0, 0, 1 }; // Move up, diagonal captures
+                directions = new int[] { 1, 0, 0, 1, 1, 0, 0, 1 };
             }
             else
             {
-                // Black Pawn moves down
-                directions = new int[] { -1, 0, 0, -1, -1, 0, 0, -1 }; // Move down, diagonal captures
+                directions = new int[] { -1, 0, 0, -1, -1, 0, 0, -1 };
             }
 
-            // Gerakan satu langkah ke depan
-            int x = currentLocation.X;
-            int y = currentLocation.Y + directions[0];
+		for (int i = 0; i < directions.Length; i++)
+		{
+			int dx = currentLocation.X;
+			int dy = directions[i];
+			int x = currentLocation.X;
+			int y = currentLocation.Y;
 
-            if (y >= 0 && y < 8) // Pastikan dalam batas papan
-            {
-                if (board.GetPiece(new Location(x, y)) == null)
-                {
-                    moves.Add(new Location(x, y));
+			while (true)
+			{
+				x += dx;
+				y += dy;
 
-                    // Cek pergerakan dua langkah jika Pawn masih di baris awalnya
-                    if (currentLocation.Y == (Color == Color.White ? 1 : 6))
-                    {
-                        y += directions[0];
-                        if (y >= 0 && y < 8 && board.GetPiece(new Location(x, y)) == null)
-                        {
-                            moves.Add(new Location(x, y));
-                        }
-                    }
-                }
-            }
+				if (x < 0 || x >= 8 || y < 0 || y >= 8)
+				{
+					break;
+				}
 
-            // Cek serangan diagonal
-            for (int i = 1; i < directions.Length; i += 2)
-            {
-                int dx = directions[i];
-                int dy = directions[i + 1];
-                int targetX = currentLocation.X + dx;
-                int targetY = currentLocation.Y + dy;
+				Piece target = board.GetPiece(new Location(x, y));
+				if (target == null)
+				{
+					moves.Add(new Location(x, y));
+				}
+				else
+				{
+					if (target.Color != Color)
+					{
+						moves.Add(new Location(x, y));
+					}
+					break;
+				}
+			}
+		}
 
-                if (targetX >= 0 && targetX < 8 && targetY >= 0 && targetY < 8)
-                {
-                    Piece target = board.GetPiece(new Location(targetX, targetY));
-                    if (target != null && target.Color != Color)
-                    {
-                        moves.Add(new Location(targetX, targetY));
-                    }
-                }
-            }
-
-            return moves;
-        }
+		return moves;
+	}
 	//     int direction = Color == Color.White ? 1 : -1;
 
 	//     // Gerakan maju satu langkah
