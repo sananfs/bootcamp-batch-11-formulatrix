@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassWithFinalizers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f11e58c0c57a2008c9f7ffb04eb7619d2ec9c04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a05021df86471966c2cfdf00f875421d4926c860")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassWithFinalizers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassWithFinalizers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

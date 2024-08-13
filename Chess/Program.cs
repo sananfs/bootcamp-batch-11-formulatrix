@@ -38,7 +38,7 @@ namespace Chess
                     continue;
                 }
 
-                Console.WriteLine("Masukkan lokasi tujuan (X Y): ");
+                Console.WriteLine("Masukkan lokasi tujuan (Y X): ");
                 if (!TryParseLocation(out Location destinationLocation))
                 {
                     Console.WriteLine("Input lokasi tidak valid. Silakan coba lagi.");
@@ -135,7 +135,7 @@ namespace Chess
         private static bool TryParseLocation(out Location location)
         {
             location = null;
-            Console.WriteLine("Masukkan koordinat (X Y) dalam format integer:");
+            Console.WriteLine("Masukkan koordinat (Y X) dalam format integer:");
             string input = Console.ReadLine();
             var parts = input.Split(' ');
 
