@@ -1,0 +1,13 @@
+@model Genre
+<h> Input New Genre</h>
+<br>
+<form method="post">
+    <div class="form-group">
+        <input asp-for="@Model.GenreId" type="text" class="form-control" hidden>
+        <label asp-for="@Model.GenreName">Genre Name</label>
+        <input asp-for="@Model.GenreName" type="text" class="form-control" readonly="readonly">
+        <label asp-for="@Model.Description">Description</label>
+        <input asp-for="@Model.Description" type="text" class="form-control" readonly="readonly">
+    </div>
+    <button type="delete" class="btn btn-danger">Delete</button>
+</form>

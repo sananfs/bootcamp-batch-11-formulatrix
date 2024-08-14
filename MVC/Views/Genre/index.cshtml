@@ -1,0 +1,42 @@
+@model List<Genre>;
+@if (TempData["CreateSuccess"] is not null){
+  <p>@TempData["CreateSuccess"]</p>
+}
+@if (TempData["Error"] is not null){
+  <p>@TempData["Error"]</p>
+}
+@if (TempData["UpdateSuccess"] is not null){
+  <p>@TempData["UpdateSuccess"]</p>
+}
+<h1>GENRE</h1>
+<br>v
+<a class="btn btn-info" asp-controller="Genre" asp-action="Create">Create</a>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach(var genre in Model) {
+        <tr>
+            <td>
+                @genre.GenreId
+            </td>
+            <td>
+                @genre.GenreName
+            </td>
+            <td>
+                @genre.Description
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-controller="Genre" asp-action="Update" asp-route-id="@genre.GenreId">Update</a>
+               <a class="btn btn-danger" asp-controller="Genre" asp-action="Delete"  asp-route-id="@genre.GenreId">Delete</a>
+            </td>
+        </tr>
+    }
+  </tbody>
+</table>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TryCT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a05021df86471966c2cfdf00f875421d4926c860")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5124c10b684e2216a307d185d0942a9650b9b86c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TryCT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TryCT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

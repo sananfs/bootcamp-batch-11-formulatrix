@@ -53,4 +53,74 @@ public class ChessBoard
         }
         pieces = initialPieces;
     }
+
+    public void SetRokadeShort(Piece king, GameController gameController)
+    {
+        var currentLocation = GetLocation(king);
+        if (king.PieceType != PieceType.King || currentLocation == null)
+        {
+            throw new InvalidOperationException("Bidak bukan raja atau lokasi raja tidak ditemukan.");
+        }
+
+        int rookX = 7;
+        int rookY = currentLocation.Y;
+        var rook = pieces[rookY, rookX] as Rook;
+
+        if (rook == null || 
+            gameController.HasEverMoved(king) || 
+            gameController.HasEverMoved(rook))
+        {
+            throw new InvalidOperationException("Raja atau menara sudah pernah bergerak.");
+        }
+
+        for (int x = currentLocation.X + 1; x < rookX; x++)
+        {
+            if (pieces[rookY, x] != null)
+            {
+                throw new InvalidOperationException("Jalur rokade tidak kosong.");
+            }
+        }
+
+        SetPlacePiece(king, new Location(currentLocation.X + 2, currentLocation.Y));
+
+        SetPlacePiece(rook, new Location(currentLocation.X + 1, currentLocation.Y));
+
+        gameController.MarkPieceAsMoved(king);
+        gameController.MarkPieceAsMoved(rook);
+    }
+
+    public void SetRokadeLong(Piece king, GameController gameController)
+    {
+        var currentLocation = GetLocation(king);
+        if (king.PieceType != PieceType.King || currentLocation == null)
+        {
+            throw new InvalidOperationException("Bidak bukan raja atau lokasi raja tidak ditemukan.");
+        }
+
+        int rookX = 0;
+        int rookY = currentLocation.Y;
+        var rook = pieces[rookY, rookX] as Rook;
+
+        if (rook == null || 
+            gameController.HasEverMoved(king) || 
+            gameController.HasEverMoved(rook))
+        {
+            throw new InvalidOperationException("Raja atau menara sudah pernah bergerak.");
+        }
+
+        for (int x = rookX + 1; x < currentLocation.X; x++)
+        {
+            if (pieces[rookY, x] != null)
+            {
+                throw new InvalidOperationException("Jalur rokade tidak kosong.");
+            }
+        }
+
+        SetPlacePiece(king, new Location(currentLocation.X - 2, currentLocation.Y));
+
+        SetPlacePiece(rook, new Location(currentLocation.X - 1, currentLocation.Y));
+
+        gameController.MarkPieceAsMoved(king);
+        gameController.MarkPieceAsMoved(rook);
+    }
 }

@@ -31,7 +31,7 @@ namespace Chess
 
                 Console.WriteLine($"Giliran {currentPlayerName} ({currentPlayerColor}).");
 
-                Console.WriteLine("Masukkan lokasi bidak yang akan digerakkan (X Y): ");
+                Console.WriteLine("Masukkan lokasi bidak yang akan digerakkan (Y X): ");
                 if (!TryParseLocation(out Location pieceLocation))
                 {
                     Console.WriteLine("Input lokasi tidak valid. Silakan coba lagi.");
