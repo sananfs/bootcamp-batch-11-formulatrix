@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch11\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
