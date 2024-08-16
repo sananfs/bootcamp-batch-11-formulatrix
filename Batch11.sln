@@ -267,6 +267,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebAPI", "MyWebAPI\MyWebAPI.csproj", "{AD96035F-383B-441C-9273-9F661D637D97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterSingleton", "AdapterSingleton\AdapterSingleton.csproj", "{EDDADD96-29FD-4815-9385-A99B11E0268C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -725,6 +727,10 @@ Global
 		{AD96035F-383B-441C-9273-9F661D637D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD96035F-383B-441C-9273-9F661D637D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD96035F-383B-441C-9273-9F661D637D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDADD96-29FD-4815-9385-A99B11E0268C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDADD96-29FD-4815-9385-A99B11E0268C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDADD96-29FD-4815-9385-A99B11E0268C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDADD96-29FD-4815-9385-A99B11E0268C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

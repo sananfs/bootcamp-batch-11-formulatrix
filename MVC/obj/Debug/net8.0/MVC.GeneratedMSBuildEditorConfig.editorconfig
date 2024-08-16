@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC
 build_property.RootNamespace = MVC
-build_property.ProjectDir = c:\Users\Batch 11\Desktop\Batch11\MVC\
+build_property.ProjectDir = C:\Users\Batch 11\Desktop\Batch11\MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Batch 11\Desktop\Batch11\MVC
+build_property.MSBuildProjectDirectory = C:\Users\Batch 11\Desktop\Batch11\MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/Create.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/Delete.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/index.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/Update.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Genre/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/About.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Contact.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Index.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Privacy.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Service.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Home/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Shared/Error.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/_ViewImports.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/_ViewStart.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Batch 11/Desktop/Batch11/MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Batch 11/Desktop/Batch11/MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e
