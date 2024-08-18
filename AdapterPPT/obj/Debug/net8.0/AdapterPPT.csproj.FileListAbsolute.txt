@@ -1,0 +1,15 @@
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.GeneratedMSBuildEditorConfig.editorconfig
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.AssemblyInfoInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.AssemblyInfo.cs
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.csproj.CoreCompileInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.sourcelink.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\bin\Debug\net8.0\AdapterPPT.exe
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\bin\Debug\net8.0\AdapterPPT.deps.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\bin\Debug\net8.0\AdapterPPT.runtimeconfig.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\bin\Debug\net8.0\AdapterPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\bin\Debug\net8.0\AdapterPPT.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\refint\AdapterPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\AdapterPPT.genruntimeconfig.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\AdapterPPT\obj\Debug\net8.0\ref\AdapterPPT.dll
