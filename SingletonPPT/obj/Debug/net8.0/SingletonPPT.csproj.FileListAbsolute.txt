@@ -1,0 +1,15 @@
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.GeneratedMSBuildEditorConfig.editorconfig
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.AssemblyInfoInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.AssemblyInfo.cs
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.csproj.CoreCompileInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.sourcelink.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\bin\Debug\net8.0\SingletonPPT.exe
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\bin\Debug\net8.0\SingletonPPT.deps.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\bin\Debug\net8.0\SingletonPPT.runtimeconfig.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\bin\Debug\net8.0\SingletonPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\bin\Debug\net8.0\SingletonPPT.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\refint\SingletonPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\SingletonPPT.genruntimeconfig.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\SingletonPPT\obj\Debug\net8.0\ref\SingletonPPT.dll

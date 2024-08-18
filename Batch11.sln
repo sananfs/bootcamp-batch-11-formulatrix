@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -270,6 +270,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterSingleton", "AdapterSingleton\AdapterSingleton.csproj", "{EDDADD96-29FD-4815-9385-A99B11E0268C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPPT", "AdapterPPT\AdapterPPT.csproj", "{342AAA94-E95C-4860-B8C0-A7485FBF09E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPPT", "SingletonPPT\SingletonPPT.csproj", "{8BC2059A-E6D9-4EA3-8CBC-1387A3B02206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -737,6 +739,10 @@ Global
 		{342AAA94-E95C-4860-B8C0-A7485FBF09E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{342AAA94-E95C-4860-B8C0-A7485FBF09E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{342AAA94-E95C-4860-B8C0-A7485FBF09E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC2059A-E6D9-4EA3-8CBC-1387A3B02206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC2059A-E6D9-4EA3-8CBC-1387A3B02206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC2059A-E6D9-4EA3-8CBC-1387A3B02206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC2059A-E6D9-4EA3-8CBC-1387A3B02206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -745,7 +751,7 @@ Global
 		SolutionGuid = {FD7E404F-88DE-4983-8EAF-177A4FA590B9}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{EDDADD96-29FD-4815-9385-A99B11E0268C} = {ECA71DC6-172E-45AD-AD83-7743205DA934}
+		{EDDADD96-29FD-4815-9385-A99B11E0268C} = {8989D4D1-C0A9-4274-9FD4-3338CCD86814}
 		{0A2754D8-5763-4019-A51A-298AC630CC66} = {8F0F4D46-31A8-418C-B264-60EB12890DE4}
 		{C065E92C-410B-4568-A68E-D6C7BC2FBEA0} = {4F142A06-8D8C-40F4-A8BC-B4E67A35936F}
 		{A15A0706-D54B-4075-863D-ADB90147796F} = {4F142A06-8D8C-40F4-A8BC-B4E67A35936F}
