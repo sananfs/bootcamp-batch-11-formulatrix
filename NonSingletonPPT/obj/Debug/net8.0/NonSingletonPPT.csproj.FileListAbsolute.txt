@@ -1,0 +1,15 @@
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\bin\Debug\net8.0\NonSingletonPPT.exe
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\bin\Debug\net8.0\NonSingletonPPT.deps.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\bin\Debug\net8.0\NonSingletonPPT.runtimeconfig.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\bin\Debug\net8.0\NonSingletonPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\bin\Debug\net8.0\NonSingletonPPT.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.GeneratedMSBuildEditorConfig.editorconfig
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.AssemblyInfoInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.AssemblyInfo.cs
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.csproj.CoreCompileInputs.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.sourcelink.json
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\refint\NonSingletonPPT.dll
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.pdb
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\NonSingletonPPT.genruntimeconfig.cache
+d:\Belajar\Formulatrix\bootcamp-batch-11-formulatrix\NonSingletonPPT\obj\Debug\net8.0\ref\NonSingletonPPT.dll
